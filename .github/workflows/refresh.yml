@@ -1,0 +1,44 @@
+name: Daily competitor refresh
+on:
+  schedule:
+    # 20:00 UTC = 04:00 Asia/Manila the next day.
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: competitor-research-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - name: Check out main
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: main
+      - name: Install public-source parsers
+        run: python3 -m pip install --disable-pip-version-check beautifulsoup4==4.13.4 pypdf==5.9.0
+      - name: Refresh sources
+        id: collect
+        continue-on-error: true
+        run: python3 scripts/refresh.py
+      - name: Validate dashboard JavaScript
+        run: |
+          node -e "const fs=require('fs');const h=fs.readFileSync('index.html','utf8');new Function(h.split('<script>')[1].split('</script>')[0]);console.log('Dashboard script valid')"
+      - name: Publish data updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html research-data.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh competitor research"
+            git push origin HEAD:main
+          fi
+      - name: Report collection failure
+        if: steps.collect.outcome == 'failure'
+        run: exit 1
+
