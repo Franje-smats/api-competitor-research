@@ -3,6 +3,7 @@ on:
   schedule:
     # 20:00 UTC = 04:00 Asia/Manila the next day.
     - cron: '0 20 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
 permissions:
   contents: read
