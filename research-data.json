@@ -5,13 +5,13 @@
   "coverage": [
     {
       "competitor": "Smart Property Investment",
-      "dated": 306,
+      "dated": 309,
       "months": {
         "2026-06": 71,
         "2026-07": 64,
         "2026-08": 58,
         "2026-09": 61,
-        "2026-10": 52
+        "2026-10": 55
       }
     },
     {
@@ -27,13 +27,13 @@
     },
     {
       "competitor": "Property Update",
-      "dated": 295,
+      "dated": 298,
       "months": {
         "2026-06": 48,
         "2026-07": 59,
         "2026-08": 56,
         "2026-09": 63,
-        "2026-10": 69
+        "2026-10": 72
       }
     },
     {
@@ -72,6 +72,102 @@
   ],
   "records": [
     {
+      "competitor": "Smart Property Investment",
+      "type": "Article",
+      "title": "Laugh at France’s economy all you like. The bill is coming here too",
+      "url": "https://www.smartpropertyinvestment.com.au/finance/28277-laugh-at-frances-economy-all-you-like-the-bill-is-coming-here-too",
+      "date": "2026-10-29",
+      "dateStatus": "Verified",
+      "dateBasis": "Publisher archive",
+      "category": "",
+      "sourceType": "Owned",
+      "summary": "",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "id": 1
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Article",
+      "title": "‘Pretty high risk’: Why one investor says to think twice before switching to commercial",
+      "url": "https://www.smartpropertyinvestment.com.au/investor-strategy/28280-pretty-high-risk-why-one-investor-says-to-think-twice-before-switching-to-commercial",
+      "date": "2026-10-29",
+      "dateStatus": "Verified",
+      "dateBasis": "Publisher archive",
+      "category": "",
+      "sourceType": "Owned",
+      "summary": "",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "id": 2
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Article",
+      "title": "Opportunity hidden within assets ‘demonised’ by investors",
+      "url": "https://www.smartpropertyinvestment.com.au/investor-strategy/28278-opportunity-hidden-within-assets-demonised-by-investors",
+      "date": "2026-10-29",
+      "dateStatus": "Verified",
+      "dateBasis": "Publisher archive",
+      "category": "",
+      "sourceType": "Owned",
+      "summary": "",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "id": 3
+    },
+    {
+      "competitor": "Property Update",
+      "type": "Article",
+      "title": "Australia’s property tax changes are already backfiring – and renters could pay the price",
+      "url": "https://propertyupdate.com.au/australias-property-tax-changes-are-already-backfiring-and-renters-could-pay-the-price/",
+      "date": "2026-10-29",
+      "dateStatus": "Verified",
+      "dateBasis": "Publisher archive",
+      "category": "property investment",
+      "sourceType": "Owned",
+      "summary": "",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "id": 4
+    },
+    {
+      "competitor": "Property Update",
+      "type": "Article",
+      "title": "Has Australian property stopped being a good investment?",
+      "url": "https://propertyupdate.com.au/has-australian-property-stopped-being-a-good-investment/",
+      "date": "2026-10-29",
+      "dateStatus": "Verified",
+      "dateBasis": "Publisher archive",
+      "category": "property investment",
+      "sourceType": "Owned",
+      "summary": "",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "id": 5
+    },
+    {
+      "competitor": "Property Update",
+      "type": "Article",
+      "title": "Victoria eases foreign investor tax giving property a welcome confidence boost",
+      "url": "https://propertyupdate.com.au/victoria-eases-foreign-investor-tax-giving-property-a-welcome-confidence-boost/",
+      "date": "2026-10-29",
+      "dateStatus": "Verified",
+      "dateBasis": "Publisher archive",
+      "category": "property investment",
+      "sourceType": "Owned",
+      "summary": "",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "id": 6
+    },
+    {
       "competitor": "Property Update",
       "type": "Article",
       "title": "Wasted space: Less is often more",
@@ -85,7 +181,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 1
+      "id": 7
     },
     {
       "competitor": "Property Update",
@@ -101,7 +197,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 2
+      "id": 8
     },
     {
       "competitor": "Property Update",
@@ -117,7 +213,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 3
+      "id": 9
     },
     {
       "competitor": "Smart Property Investment",
@@ -133,7 +229,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 4
+      "id": 10
     },
     {
       "competitor": "Smart Property Investment",
@@ -149,7 +245,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 5
+      "id": 11
     },
     {
       "competitor": "Smart Property Investment",
@@ -165,7 +261,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 6
+      "id": 12
     },
     {
       "competitor": "Smart Property Investment",
@@ -181,7 +277,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 7
+      "id": 13
     },
     {
       "competitor": "Property Update",
@@ -198,7 +294,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-29",
-      "id": 8
+      "id": 14
     },
     {
       "competitor": "Your Investment Property",
@@ -214,7 +310,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
-      "id": 9
+      "id": 15
     },
     {
       "competitor": "Property Update",
@@ -230,7 +326,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 10
+      "id": 16
     },
     {
       "competitor": "Property Update",
@@ -246,7 +342,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 11
+      "id": 17
     },
     {
       "competitor": "SQM Research",
@@ -262,7 +358,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 12
+      "id": 18
     },
     {
       "competitor": "Smart Property Investment",
@@ -278,7 +374,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 13
+      "id": 19
     },
     {
       "competitor": "Smart Property Investment",
@@ -294,7 +390,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 14
+      "id": 20
     },
     {
       "competitor": "Smart Property Investment",
@@ -310,7 +406,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 15
+      "id": 21
     },
     {
       "competitor": "Smart Property Investment",
@@ -326,7 +422,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 16
+      "id": 22
     },
     {
       "competitor": "Property Update",
@@ -343,7 +439,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-26",
-      "id": 17
+      "id": 23
     },
     {
       "competitor": "Property Update",
@@ -360,7 +456,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-26",
-      "id": 18
+      "id": 24
     },
     {
       "competitor": "Property Update",
@@ -377,7 +473,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-26",
-      "id": 19
+      "id": 25
     },
     {
       "competitor": "Property Update",
@@ -394,7 +490,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-26",
-      "id": 20
+      "id": 26
     },
     {
       "competitor": "Your Investment Property",
@@ -411,7 +507,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "26 Oct, 2026",
-      "id": 21
+      "id": 27
     },
     {
       "competitor": "realestate.com.au",
@@ -428,7 +524,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "26 Oct 2026",
-      "id": 22
+      "id": 28
     },
     {
       "competitor": "Smart Property Investment",
@@ -444,7 +540,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 23
+      "id": 29
     },
     {
       "competitor": "Smart Property Investment",
@@ -460,7 +556,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 24
+      "id": 30
     },
     {
       "competitor": "Smart Property Investment",
@@ -476,7 +572,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 25
+      "id": 31
     },
     {
       "competitor": "Property Update",
@@ -493,7 +589,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-19",
-      "id": 26
+      "id": 32
     },
     {
       "competitor": "Property Update",
@@ -509,7 +605,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 27
+      "id": 33
     },
     {
       "competitor": "Property Update",
@@ -525,7 +621,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 28
+      "id": 34
     },
     {
       "competitor": "Property Update",
@@ -541,7 +637,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 29
+      "id": 35
     },
     {
       "competitor": "Property Update",
@@ -558,7 +654,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-25",
-      "id": 30
+      "id": 36
     },
     {
       "competitor": "Property Update",
@@ -575,7 +671,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-25",
-      "id": 31
+      "id": 37
     },
     {
       "competitor": "Property Update",
@@ -592,7 +688,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "originalDateText": "2026-10-25",
-      "id": 32
+      "id": 38
     },
     {
       "competitor": "Property Update",
@@ -609,7 +705,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-25",
-      "id": 33
+      "id": 39
     },
     {
       "competitor": "Property Update",
@@ -626,7 +722,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-24",
-      "id": 34
+      "id": 40
     },
     {
       "competitor": "Property Update",
@@ -643,7 +739,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-24",
-      "id": 35
+      "id": 41
     },
     {
       "competitor": "Property Update",
@@ -660,7 +756,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-24",
-      "id": 36
+      "id": 42
     },
     {
       "competitor": "Property Update",
@@ -677,7 +773,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "originalDateText": "2026-10-23",
-      "id": 37
+      "id": 43
     },
     {
       "competitor": "Smart Property Investment",
@@ -694,7 +790,7 @@
       "reviewStatus": "Source reviewed",
       "checked": "2026-10-29",
       "originalDateText": "22 OCT 2026",
-      "id": 38
+      "id": 44
     },
     {
       "competitor": "Smart Property Investment",
@@ -711,7 +807,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "22 OCT 2026",
-      "id": 39
+      "id": 45
     },
     {
       "competitor": "Smart Property Investment",
@@ -728,7 +824,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "22 OCT 2026",
-      "id": 40
+      "id": 46
     },
     {
       "competitor": "Property Update",
@@ -745,7 +841,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-22",
-      "id": 41
+      "id": 47
     },
     {
       "competitor": "Property Update",
@@ -762,7 +858,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-22",
-      "id": 42
+      "id": 48
     },
     {
       "competitor": "Property Update",
@@ -779,10 +875,10 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "originalDateText": "2026-10-22",
-      "id": 43
+      "id": 49
     },
     {
-      "id": 44,
+      "id": 50,
       "competitor": "Domain",
       "type": "Mention",
       "title": "ABC covers Domain housing findings",
@@ -812,7 +908,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "21 OCT 2026",
-      "id": 45
+      "id": 51
     },
     {
       "competitor": "Smart Property Investment",
@@ -829,7 +925,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "21 OCT 2026",
-      "id": 46
+      "id": 52
     },
     {
       "competitor": "Smart Property Investment",
@@ -846,7 +942,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "21 OCT 2026",
-      "id": 47
+      "id": 53
     },
     {
       "competitor": "Property Update",
@@ -863,7 +959,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "originalDateText": "2026-10-21",
-      "id": 48
+      "id": 54
     },
     {
       "competitor": "Property Update",
@@ -880,10 +976,10 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "originalDateText": "2026-10-21",
-      "id": 49
+      "id": 55
     },
     {
-      "id": 50,
+      "id": 56,
       "competitor": "SQM Research",
       "type": "Mention",
       "title": "Hotspotting references SQM vacancy findings",
@@ -913,7 +1009,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "20 OCT 2026",
-      "id": 51
+      "id": 57
     },
     {
       "competitor": "Smart Property Investment",
@@ -930,7 +1026,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "20 OCT 2026",
-      "id": 52
+      "id": 58
     },
     {
       "competitor": "Property Update",
@@ -947,7 +1043,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-20",
-      "id": 53
+      "id": 59
     },
     {
       "competitor": "Your Investment Property",
@@ -964,7 +1060,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "20 Oct, 2026",
-      "id": 54
+      "id": 60
     },
     {
       "competitor": "SQM Research",
@@ -981,7 +1077,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-20",
-      "id": 55
+      "id": 61
     },
     {
       "competitor": "Smart Property Investment",
@@ -998,7 +1094,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "19 OCT 2026",
-      "id": 56
+      "id": 62
     },
     {
       "competitor": "Smart Property Investment",
@@ -1015,7 +1111,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "19 OCT 2026",
-      "id": 57
+      "id": 63
     },
     {
       "competitor": "Smart Property Investment",
@@ -1032,7 +1128,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "19 OCT 2026",
-      "id": 58
+      "id": 64
     },
     {
       "competitor": "Property Update",
@@ -1049,7 +1145,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-18",
-      "id": 59
+      "id": 65
     },
     {
       "competitor": "Property Update",
@@ -1066,7 +1162,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-18",
-      "id": 60
+      "id": 66
     },
     {
       "competitor": "Property Update",
@@ -1083,7 +1179,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-17",
-      "id": 61
+      "id": 67
     },
     {
       "competitor": "Property Update",
@@ -1100,7 +1196,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "originalDateText": "2026-10-16",
-      "id": 62
+      "id": 68
     },
     {
       "competitor": "Property Update",
@@ -1117,7 +1213,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-16",
-      "id": 63
+      "id": 69
     },
     {
       "competitor": "Your Investment Property",
@@ -1134,7 +1230,7 @@
       "reviewStatus": "Source reviewed",
       "checked": "2026-10-26",
       "originalDateText": "16 Oct, 2026",
-      "id": 64
+      "id": 70
     },
     {
       "competitor": "Smart Property Investment",
@@ -1151,7 +1247,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "15 OCT 2026",
-      "id": 65
+      "id": 71
     },
     {
       "competitor": "Smart Property Investment",
@@ -1168,7 +1264,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "15 OCT 2026",
-      "id": 66
+      "id": 72
     },
     {
       "competitor": "Smart Property Investment",
@@ -1185,7 +1281,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "15 OCT 2026",
-      "id": 67
+      "id": 73
     },
     {
       "competitor": "Your Investment Property",
@@ -1202,7 +1298,7 @@
       "reviewStatus": "Source reviewed",
       "checked": "2026-10-26",
       "originalDateText": "15 Oct, 2026",
-      "id": 68
+      "id": 74
     },
     {
       "competitor": "realestate.com.au",
@@ -1219,7 +1315,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 Oct 2026",
-      "id": 69
+      "id": 75
     },
     {
       "competitor": "Smart Property Investment",
@@ -1236,7 +1332,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "14 OCT 2026",
-      "id": 70
+      "id": 76
     },
     {
       "competitor": "Smart Property Investment",
@@ -1253,7 +1349,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "14 OCT 2026",
-      "id": 71
+      "id": 77
     },
     {
       "competitor": "realestate.com.au",
@@ -1270,7 +1366,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "14 Oct 2026",
-      "id": 72
+      "id": 78
     },
     {
       "competitor": "Smart Property Investment",
@@ -1287,7 +1383,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "13 OCT 2026",
-      "id": 73
+      "id": 79
     },
     {
       "competitor": "Smart Property Investment",
@@ -1304,7 +1400,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "13 OCT 2026",
-      "id": 74
+      "id": 80
     },
     {
       "competitor": "Smart Property Investment",
@@ -1321,7 +1417,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "13 OCT 2026",
-      "id": 75
+      "id": 81
     },
     {
       "competitor": "SQM Research",
@@ -1338,7 +1434,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-13",
-      "id": 76
+      "id": 82
     },
     {
       "competitor": "SQM Research",
@@ -1355,10 +1451,10 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-13",
-      "id": 77
+      "id": 83
     },
     {
-      "id": 78,
+      "id": 84,
       "competitor": "Property Update",
       "type": "Activity",
       "title": "City market videos on Metropole",
@@ -1388,7 +1484,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "originalDateText": "12 OCT 2026",
-      "id": 79
+      "id": 85
     },
     {
       "competitor": "Smart Property Investment",
@@ -1405,7 +1501,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "originalDateText": "12 OCT 2026",
-      "id": 80
+      "id": 86
     },
     {
       "competitor": "Smart Property Investment",
@@ -1422,7 +1518,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "originalDateText": "12 OCT 2026",
-      "id": 81
+      "id": 87
     },
     {
       "competitor": "Smart Property Investment",
@@ -1439,7 +1535,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "originalDateText": "12 OCT 2026",
-      "id": 82
+      "id": 88
     },
     {
       "competitor": "Property Update",
@@ -1456,7 +1552,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-12",
-      "id": 83
+      "id": 89
     },
     {
       "competitor": "realestate.com.au",
@@ -1473,7 +1569,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "12 Oct 2026",
-      "id": 84
+      "id": 90
     },
     {
       "competitor": "Property Update",
@@ -1490,7 +1586,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-11",
-      "id": 85
+      "id": 91
     },
     {
       "competitor": "Property Update",
@@ -1507,7 +1603,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-11",
-      "id": 86
+      "id": 92
     },
     {
       "competitor": "Property Update",
@@ -1524,7 +1620,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-11",
-      "id": 87
+      "id": 93
     },
     {
       "competitor": "Property Update",
@@ -1541,7 +1637,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-11",
-      "id": 88
+      "id": 94
     },
     {
       "competitor": "Property Update",
@@ -1558,7 +1654,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-10",
-      "id": 89
+      "id": 95
     },
     {
       "competitor": "Property Update",
@@ -1575,7 +1671,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-10",
-      "id": 90
+      "id": 96
     },
     {
       "competitor": "Property Update",
@@ -1592,7 +1688,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-10",
-      "id": 91
+      "id": 97
     },
     {
       "competitor": "Your Investment Property",
@@ -1609,7 +1705,7 @@
       "reviewStatus": "Source reviewed",
       "checked": "2026-10-26",
       "originalDateText": "09 Oct, 2026",
-      "id": 92
+      "id": 98
     },
     {
       "competitor": "Property Update",
@@ -1626,7 +1722,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-09",
-      "id": 93
+      "id": 99
     },
     {
       "competitor": "Property Update",
@@ -1643,7 +1739,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-09",
-      "id": 94
+      "id": 100
     },
     {
       "competitor": "Property Update",
@@ -1660,7 +1756,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-09",
-      "id": 95
+      "id": 101
     },
     {
       "competitor": "Property Update",
@@ -1677,7 +1773,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-09",
-      "id": 96
+      "id": 102
     },
     {
       "competitor": "Smart Property Investment",
@@ -1694,7 +1790,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "originalDateText": "08 OCT 2026",
-      "id": 97
+      "id": 103
     },
     {
       "competitor": "Smart Property Investment",
@@ -1711,7 +1807,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "originalDateText": "08 OCT 2026",
-      "id": 98
+      "id": 104
     },
     {
       "competitor": "Smart Property Investment",
@@ -1728,7 +1824,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "originalDateText": "08 OCT 2026",
-      "id": 99
+      "id": 105
     },
     {
       "competitor": "Smart Property Investment",
@@ -1745,7 +1841,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "originalDateText": "08 OCT 2026",
-      "id": 100
+      "id": 106
     },
     {
       "competitor": "Property Update",
@@ -1762,7 +1858,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-08",
-      "id": 101
+      "id": 107
     },
     {
       "competitor": "Property Update",
@@ -1779,7 +1875,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-08",
-      "id": 102
+      "id": 108
     },
     {
       "competitor": "Property Update",
@@ -1796,7 +1892,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-08",
-      "id": 103
+      "id": 109
     },
     {
       "competitor": "Smart Property Investment",
@@ -1813,7 +1909,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 OCT 2026",
-      "id": 104
+      "id": 110
     },
     {
       "competitor": "Smart Property Investment",
@@ -1830,7 +1926,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 OCT 2026",
-      "id": 105
+      "id": 111
     },
     {
       "competitor": "Smart Property Investment",
@@ -1847,7 +1943,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 OCT 2026",
-      "id": 106
+      "id": 112
     },
     {
       "competitor": "Your Investment Property",
@@ -1864,7 +1960,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 Oct, 2026",
-      "id": 107
+      "id": 113
     },
     {
       "competitor": "Property Update",
@@ -1881,7 +1977,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-07",
-      "id": 108
+      "id": 114
     },
     {
       "competitor": "Property Update",
@@ -1898,7 +1994,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-07",
-      "id": 109
+      "id": 115
     },
     {
       "competitor": "SQM Research",
@@ -1915,7 +2011,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-07",
-      "id": 110
+      "id": 116
     },
     {
       "competitor": "Smart Property Investment",
@@ -1932,7 +2028,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 OCT 2026",
-      "id": 111
+      "id": 117
     },
     {
       "competitor": "Smart Property Investment",
@@ -1949,7 +2045,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 OCT 2026",
-      "id": 112
+      "id": 118
     },
     {
       "competitor": "Smart Property Investment",
@@ -1966,7 +2062,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 OCT 2026",
-      "id": 113
+      "id": 119
     },
     {
       "competitor": "Smart Property Investment",
@@ -1983,7 +2079,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 OCT 2026",
-      "id": 114
+      "id": 120
     },
     {
       "competitor": "Property Update",
@@ -2000,7 +2096,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-06",
-      "id": 115
+      "id": 121
     },
     {
       "competitor": "Smart Property Investment",
@@ -2017,7 +2113,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "05 OCT 2026",
-      "id": 116
+      "id": 122
     },
     {
       "competitor": "Smart Property Investment",
@@ -2034,7 +2130,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "05 OCT 2026",
-      "id": 117
+      "id": 123
     },
     {
       "competitor": "Your Investment Property",
@@ -2051,7 +2147,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "05 Oct, 2026",
-      "id": 118
+      "id": 124
     },
     {
       "competitor": "Property Update",
@@ -2068,7 +2164,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-05",
-      "id": 119
+      "id": 125
     },
     {
       "competitor": "Property Update",
@@ -2085,7 +2181,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-05",
-      "id": 120
+      "id": 126
     },
     {
       "competitor": "Property Update",
@@ -2102,7 +2198,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-05",
-      "id": 121
+      "id": 127
     },
     {
       "competitor": "Property Update",
@@ -2119,7 +2215,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-04",
-      "id": 122
+      "id": 128
     },
     {
       "competitor": "Property Update",
@@ -2136,7 +2232,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-04",
-      "id": 123
+      "id": 129
     },
     {
       "competitor": "Property Update",
@@ -2153,7 +2249,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-04",
-      "id": 124
+      "id": 130
     },
     {
       "competitor": "Property Update",
@@ -2170,7 +2266,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-03",
-      "id": 125
+      "id": 131
     },
     {
       "competitor": "Property Update",
@@ -2187,7 +2283,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-03",
-      "id": 126
+      "id": 132
     },
     {
       "competitor": "Property Update",
@@ -2204,7 +2300,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-03",
-      "id": 127
+      "id": 133
     },
     {
       "competitor": "Smart Property Investment",
@@ -2221,7 +2317,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 OCT 2026",
-      "id": 128
+      "id": 134
     },
     {
       "competitor": "Your Investment Property",
@@ -2238,7 +2334,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 Oct, 2026",
-      "id": 129
+      "id": 135
     },
     {
       "competitor": "Property Update",
@@ -2255,7 +2351,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-02",
-      "id": 130
+      "id": 136
     },
     {
       "competitor": "Property Update",
@@ -2272,7 +2368,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-02",
-      "id": 131
+      "id": 137
     },
     {
       "competitor": "Property Update",
@@ -2289,7 +2385,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-02",
-      "id": 132
+      "id": 138
     },
     {
       "competitor": "SQM Research",
@@ -2305,7 +2401,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
-      "id": 133
+      "id": 139
     },
     {
       "competitor": "Smart Property Investment",
@@ -2322,7 +2418,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 OCT 2026",
-      "id": 134
+      "id": 140
     },
     {
       "competitor": "Smart Property Investment",
@@ -2339,7 +2435,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 OCT 2026",
-      "id": 135
+      "id": 141
     },
     {
       "competitor": "Smart Property Investment",
@@ -2356,7 +2452,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 OCT 2026",
-      "id": 136
+      "id": 142
     },
     {
       "competitor": "Smart Property Investment",
@@ -2373,7 +2469,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 OCT 2026",
-      "id": 137
+      "id": 143
     },
     {
       "competitor": "Your Investment Property",
@@ -2390,7 +2486,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 Oct, 2026",
-      "id": 138
+      "id": 144
     },
     {
       "competitor": "Property Update",
@@ -2407,7 +2503,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-01",
-      "id": 139
+      "id": 145
     },
     {
       "competitor": "Property Update",
@@ -2424,7 +2520,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-01",
-      "id": 140
+      "id": 146
     },
     {
       "competitor": "Property Update",
@@ -2441,7 +2537,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-01",
-      "id": 141
+      "id": 147
     },
     {
       "competitor": "Property Update",
@@ -2458,7 +2554,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-01",
-      "id": 142
+      "id": 148
     },
     {
       "competitor": "Property Update",
@@ -2475,7 +2571,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-01",
-      "id": 143
+      "id": 149
     },
     {
       "competitor": "realestate.com.au",
@@ -2492,7 +2588,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "1 Oct 2026",
-      "id": 144
+      "id": 150
     },
     {
       "competitor": "realestate.com.au",
@@ -2509,7 +2605,7 @@
       "reviewStatus": "Source reviewed",
       "checked": "2026-10-26",
       "originalDateText": "1 Oct 2026",
-      "id": 145
+      "id": 151
     },
     {
       "competitor": "Smart Property Investment",
@@ -2526,7 +2622,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 SEP 2026",
-      "id": 146
+      "id": 152
     },
     {
       "competitor": "Smart Property Investment",
@@ -2543,7 +2639,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 SEP 2026",
-      "id": 147
+      "id": 153
     },
     {
       "competitor": "Smart Property Investment",
@@ -2560,7 +2656,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 SEP 2026",
-      "id": 148
+      "id": 154
     },
     {
       "competitor": "Smart Property Investment",
@@ -2577,7 +2673,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 SEP 2026",
-      "id": 149
+      "id": 155
     },
     {
       "competitor": "Property Update",
@@ -2594,7 +2690,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-30",
-      "id": 150
+      "id": 156
     },
     {
       "competitor": "Property Update",
@@ -2611,7 +2707,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-30",
-      "id": 151
+      "id": 157
     },
     {
       "competitor": "Domain",
@@ -2628,7 +2724,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "SEPTEMBER 30 2026",
-      "id": 152
+      "id": 158
     },
     {
       "competitor": "realestate.com.au",
@@ -2645,7 +2741,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 Sep 2026",
-      "id": 153
+      "id": 159
     },
     {
       "competitor": "Smart Property Investment",
@@ -2662,7 +2758,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 SEP 2026",
-      "id": 154
+      "id": 160
     },
     {
       "competitor": "Smart Property Investment",
@@ -2679,7 +2775,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 SEP 2026",
-      "id": 155
+      "id": 161
     },
     {
       "competitor": "Smart Property Investment",
@@ -2696,7 +2792,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 SEP 2026",
-      "id": 156
+      "id": 162
     },
     {
       "competitor": "Smart Property Investment",
@@ -2713,7 +2809,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 SEP 2026",
-      "id": 157
+      "id": 163
     },
     {
       "competitor": "Property Update",
@@ -2730,7 +2826,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-29",
-      "id": 158
+      "id": 164
     },
     {
       "competitor": "Property Update",
@@ -2747,7 +2843,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-29",
-      "id": 159
+      "id": 165
     },
     {
       "competitor": "Property Update",
@@ -2764,7 +2860,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-29",
-      "id": 160
+      "id": 166
     },
     {
       "competitor": "SQM Research",
@@ -2781,7 +2877,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-29",
-      "id": 161
+      "id": 167
     },
     {
       "competitor": "SQM Research",
@@ -2797,7 +2893,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 162
+      "id": 168
     },
     {
       "competitor": "Smart Property Investment",
@@ -2814,7 +2910,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "28 SEP 2026",
-      "id": 163
+      "id": 169
     },
     {
       "competitor": "Smart Property Investment",
@@ -2831,7 +2927,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "28 SEP 2026",
-      "id": 164
+      "id": 170
     },
     {
       "competitor": "Smart Property Investment",
@@ -2848,7 +2944,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "28 SEP 2026",
-      "id": 165
+      "id": 171
     },
     {
       "competitor": "Your Investment Property",
@@ -2865,7 +2961,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "28 Sep, 2026",
-      "id": 166
+      "id": 172
     },
     {
       "competitor": "Property Update",
@@ -2882,7 +2978,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-28",
-      "id": 167
+      "id": 173
     },
     {
       "competitor": "Property Update",
@@ -2899,7 +2995,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-28",
-      "id": 168
+      "id": 174
     },
     {
       "competitor": "Property Update",
@@ -2916,7 +3012,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-28",
-      "id": 169
+      "id": 175
     },
     {
       "competitor": "Property Update",
@@ -2933,7 +3029,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-27",
-      "id": 170
+      "id": 176
     },
     {
       "competitor": "Property Update",
@@ -2950,7 +3046,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-26",
-      "id": 171
+      "id": 177
     },
     {
       "competitor": "Property Update",
@@ -2967,7 +3063,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-26",
-      "id": 172
+      "id": 178
     },
     {
       "competitor": "Property Update",
@@ -2984,7 +3080,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-26",
-      "id": 173
+      "id": 179
     },
     {
       "competitor": "Property Update",
@@ -3001,7 +3097,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-25",
-      "id": 174
+      "id": 180
     },
     {
       "competitor": "Property Update",
@@ -3018,7 +3114,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-25",
-      "id": 175
+      "id": 181
     },
     {
       "competitor": "Smart Property Investment",
@@ -3035,7 +3131,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 SEP 2026",
-      "id": 176
+      "id": 182
     },
     {
       "competitor": "Smart Property Investment",
@@ -3052,7 +3148,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 SEP 2026",
-      "id": 177
+      "id": 183
     },
     {
       "competitor": "Smart Property Investment",
@@ -3069,7 +3165,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 SEP 2026",
-      "id": 178
+      "id": 184
     },
     {
       "competitor": "Smart Property Investment",
@@ -3086,7 +3182,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 SEP 2026",
-      "id": 179
+      "id": 185
     },
     {
       "competitor": "Smart Property Investment",
@@ -3103,7 +3199,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 SEP 2026",
-      "id": 180
+      "id": 186
     },
     {
       "competitor": "Your Investment Property",
@@ -3120,7 +3216,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 Sep, 2026",
-      "id": 181
+      "id": 187
     },
     {
       "competitor": "Property Update",
@@ -3137,7 +3233,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-24",
-      "id": 182
+      "id": 188
     },
     {
       "competitor": "Property Update",
@@ -3154,7 +3250,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-24",
-      "id": 183
+      "id": 189
     },
     {
       "competitor": "Property Update",
@@ -3171,7 +3267,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-24",
-      "id": 184
+      "id": 190
     },
     {
       "competitor": "Smart Property Investment",
@@ -3188,7 +3284,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 SEP 2026",
-      "id": 185
+      "id": 191
     },
     {
       "competitor": "Smart Property Investment",
@@ -3205,7 +3301,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 SEP 2026",
-      "id": 186
+      "id": 192
     },
     {
       "competitor": "Your Investment Property",
@@ -3222,7 +3318,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 Sep, 2026",
-      "id": 187
+      "id": 193
     },
     {
       "competitor": "Property Update",
@@ -3239,7 +3335,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-23",
-      "id": 188
+      "id": 194
     },
     {
       "competitor": "Property Update",
@@ -3256,7 +3352,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-23",
-      "id": 189
+      "id": 195
     },
     {
       "competitor": "realestate.com.au",
@@ -3273,7 +3369,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 Sep 2026",
-      "id": 190
+      "id": 196
     },
     {
       "competitor": "Smart Property Investment",
@@ -3290,7 +3386,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 SEP 2026",
-      "id": 191
+      "id": 197
     },
     {
       "competitor": "Smart Property Investment",
@@ -3307,7 +3403,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 SEP 2026",
-      "id": 192
+      "id": 198
     },
     {
       "competitor": "Smart Property Investment",
@@ -3324,7 +3420,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 SEP 2026",
-      "id": 193
+      "id": 199
     },
     {
       "competitor": "Smart Property Investment",
@@ -3341,7 +3437,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 SEP 2026",
-      "id": 194
+      "id": 200
     },
     {
       "competitor": "Smart Property Investment",
@@ -3358,7 +3454,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 SEP 2026",
-      "id": 195
+      "id": 201
     },
     {
       "competitor": "Property Update",
@@ -3375,7 +3471,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-22",
-      "id": 196
+      "id": 202
     },
     {
       "competitor": "SQM Research",
@@ -3392,7 +3488,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-22",
-      "id": 197
+      "id": 203
     },
     {
       "competitor": "Smart Property Investment",
@@ -3409,7 +3505,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 SEP 2026",
-      "id": 198
+      "id": 204
     },
     {
       "competitor": "Smart Property Investment",
@@ -3426,7 +3522,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 SEP 2026",
-      "id": 199
+      "id": 205
     },
     {
       "competitor": "Smart Property Investment",
@@ -3443,7 +3539,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 SEP 2026",
-      "id": 200
+      "id": 206
     },
     {
       "competitor": "Smart Property Investment",
@@ -3460,7 +3556,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 SEP 2026",
-      "id": 201
+      "id": 207
     },
     {
       "competitor": "Your Investment Property",
@@ -3477,7 +3573,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 Sep, 2026",
-      "id": 202
+      "id": 208
     },
     {
       "competitor": "Property Update",
@@ -3494,7 +3590,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-21",
-      "id": 203
+      "id": 209
     },
     {
       "competitor": "Property Update",
@@ -3511,7 +3607,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-21",
-      "id": 204
+      "id": 210
     },
     {
       "competitor": "Property Update",
@@ -3528,7 +3624,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-20",
-      "id": 205
+      "id": 211
     },
     {
       "competitor": "Property Update",
@@ -3545,7 +3641,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-20",
-      "id": 206
+      "id": 212
     },
     {
       "competitor": "Property Update",
@@ -3562,7 +3658,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-20",
-      "id": 207
+      "id": 213
     },
     {
       "competitor": "Property Update",
@@ -3577,9 +3673,9 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-28",
+      "checked": "2026-10-29",
       "originalDateText": "2026-09-19",
-      "id": 208
+      "id": 214
     },
     {
       "competitor": "Property Update",
@@ -3596,7 +3692,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-19",
-      "id": 209
+      "id": 215
     },
     {
       "competitor": "Your Investment Property",
@@ -3613,7 +3709,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 Sep, 2026",
-      "id": 210
+      "id": 216
     },
     {
       "competitor": "Property Update",
@@ -3630,7 +3726,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-18",
-      "id": 211
+      "id": 217
     },
     {
       "competitor": "Property Update",
@@ -3647,7 +3743,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-18",
-      "id": 212
+      "id": 218
     },
     {
       "competitor": "Smart Property Investment",
@@ -3664,7 +3760,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 SEP 2026",
-      "id": 213
+      "id": 219
     },
     {
       "competitor": "Smart Property Investment",
@@ -3681,7 +3777,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 SEP 2026",
-      "id": 214
+      "id": 220
     },
     {
       "competitor": "Smart Property Investment",
@@ -3698,7 +3794,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 SEP 2026",
-      "id": 215
+      "id": 221
     },
     {
       "competitor": "Your Investment Property",
@@ -3715,7 +3811,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 Sep, 2026",
-      "id": 216
+      "id": 222
     },
     {
       "competitor": "Property Update",
@@ -3732,7 +3828,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-17",
-      "id": 217
+      "id": 223
     },
     {
       "competitor": "Property Update",
@@ -3749,7 +3845,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-17",
-      "id": 218
+      "id": 224
     },
     {
       "competitor": "Property Update",
@@ -3766,7 +3862,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-17",
-      "id": 219
+      "id": 225
     },
     {
       "competitor": "Property Update",
@@ -3783,7 +3879,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-17",
-      "id": 220
+      "id": 226
     },
     {
       "competitor": "realestate.com.au",
@@ -3800,7 +3896,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 Sep 2026",
-      "id": 221
+      "id": 227
     },
     {
       "competitor": "Smart Property Investment",
@@ -3817,7 +3913,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 SEP 2026",
-      "id": 222
+      "id": 228
     },
     {
       "competitor": "Smart Property Investment",
@@ -3834,7 +3930,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 SEP 2026",
-      "id": 223
+      "id": 229
     },
     {
       "competitor": "Smart Property Investment",
@@ -3851,7 +3947,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 SEP 2026",
-      "id": 224
+      "id": 230
     },
     {
       "competitor": "Your Investment Property",
@@ -3868,7 +3964,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 Sep, 2026",
-      "id": 225
+      "id": 231
     },
     {
       "competitor": "Property Update",
@@ -3885,7 +3981,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-16",
-      "id": 226
+      "id": 232
     },
     {
       "competitor": "Domain",
@@ -3902,7 +3998,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "SEPTEMBER 16 2026",
-      "id": 227
+      "id": 233
     },
     {
       "competitor": "Smart Property Investment",
@@ -3919,7 +4015,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 SEP 2026",
-      "id": 228
+      "id": 234
     },
     {
       "competitor": "Smart Property Investment",
@@ -3936,7 +4032,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 SEP 2026",
-      "id": 229
+      "id": 235
     },
     {
       "competitor": "Smart Property Investment",
@@ -3953,7 +4049,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 SEP 2026",
-      "id": 230
+      "id": 236
     },
     {
       "competitor": "Your Investment Property",
@@ -3970,7 +4066,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 Sep, 2026",
-      "id": 231
+      "id": 237
     },
     {
       "competitor": "Property Update",
@@ -3987,7 +4083,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-15",
-      "id": 232
+      "id": 238
     },
     {
       "competitor": "Property Update",
@@ -4004,7 +4100,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-15",
-      "id": 233
+      "id": 239
     },
     {
       "competitor": "SQM Research",
@@ -4021,7 +4117,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-15",
-      "id": 234
+      "id": 240
     },
     {
       "competitor": "SQM Research",
@@ -4038,7 +4134,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-15",
-      "id": 235
+      "id": 241
     },
     {
       "competitor": "Smart Property Investment",
@@ -4055,7 +4151,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "14 SEP 2026",
-      "id": 236
+      "id": 242
     },
     {
       "competitor": "Smart Property Investment",
@@ -4072,7 +4168,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "14 SEP 2026",
-      "id": 237
+      "id": 243
     },
     {
       "competitor": "Smart Property Investment",
@@ -4089,7 +4185,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "14 SEP 2026",
-      "id": 238
+      "id": 244
     },
     {
       "competitor": "Your Investment Property",
@@ -4106,7 +4202,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "14 Sep, 2026",
-      "id": 239
+      "id": 245
     },
     {
       "competitor": "Property Update",
@@ -4123,7 +4219,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-14",
-      "id": 240
+      "id": 246
     },
     {
       "competitor": "Property Update",
@@ -4140,7 +4236,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-14",
-      "id": 241
+      "id": 247
     },
     {
       "competitor": "Property Update",
@@ -4156,7 +4252,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 242
+      "id": 248
     },
     {
       "competitor": "Property Update",
@@ -4173,7 +4269,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-13",
-      "id": 243
+      "id": 249
     },
     {
       "competitor": "Property Update",
@@ -4190,7 +4286,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-12",
-      "id": 244
+      "id": 250
     },
     {
       "competitor": "Property Update",
@@ -4207,7 +4303,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "originalDateText": "2026-09-12",
-      "id": 245
+      "id": 251
     },
     {
       "competitor": "Property Update",
@@ -4224,7 +4320,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-11",
-      "id": 246
+      "id": 252
     },
     {
       "competitor": "Property Update",
@@ -4241,7 +4337,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-11",
-      "id": 247
+      "id": 253
     },
     {
       "competitor": "Property Update",
@@ -4258,7 +4354,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-11",
-      "id": 248
+      "id": 254
     },
     {
       "competitor": "Smart Property Investment",
@@ -4275,7 +4371,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 SEP 2026",
-      "id": 249
+      "id": 255
     },
     {
       "competitor": "Smart Property Investment",
@@ -4292,7 +4388,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 SEP 2026",
-      "id": 250
+      "id": 256
     },
     {
       "competitor": "Smart Property Investment",
@@ -4309,7 +4405,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 SEP 2026",
-      "id": 251
+      "id": 257
     },
     {
       "competitor": "Your Investment Property",
@@ -4326,7 +4422,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 Sep, 2026",
-      "id": 252
+      "id": 258
     },
     {
       "competitor": "Property Update",
@@ -4343,7 +4439,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-10",
-      "id": 253
+      "id": 259
     },
     {
       "competitor": "Smart Property Investment",
@@ -4360,7 +4456,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 SEP 2026",
-      "id": 254
+      "id": 260
     },
     {
       "competitor": "Smart Property Investment",
@@ -4377,7 +4473,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 SEP 2026",
-      "id": 255
+      "id": 261
     },
     {
       "competitor": "Smart Property Investment",
@@ -4394,7 +4490,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 SEP 2026",
-      "id": 256
+      "id": 262
     },
     {
       "competitor": "Property Update",
@@ -4411,7 +4507,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-09",
-      "id": 257
+      "id": 263
     },
     {
       "competitor": "Property Update",
@@ -4428,7 +4524,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-09",
-      "id": 258
+      "id": 264
     },
     {
       "competitor": "Domain",
@@ -4445,7 +4541,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "SEPTEMBER 09 2026",
-      "id": 259
+      "id": 265
     },
     {
       "competitor": "realestate.com.au",
@@ -4462,7 +4558,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "9 Sep 2026",
-      "id": 260
+      "id": 266
     },
     {
       "competitor": "realestate.com.au",
@@ -4479,7 +4575,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "9 Sep 2026",
-      "id": 261
+      "id": 267
     },
     {
       "competitor": "Smart Property Investment",
@@ -4496,7 +4592,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 SEP 2026",
-      "id": 262
+      "id": 268
     },
     {
       "competitor": "Smart Property Investment",
@@ -4513,7 +4609,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 SEP 2026",
-      "id": 263
+      "id": 269
     },
     {
       "competitor": "Smart Property Investment",
@@ -4530,7 +4626,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 SEP 2026",
-      "id": 264
+      "id": 270
     },
     {
       "competitor": "Property Update",
@@ -4547,7 +4643,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-08",
-      "id": 265
+      "id": 271
     },
     {
       "competitor": "Property Update",
@@ -4564,7 +4660,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-08",
-      "id": 266
+      "id": 272
     },
     {
       "competitor": "SQM Research",
@@ -4581,7 +4677,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-08",
-      "id": 267
+      "id": 273
     },
     {
       "competitor": "Smart Property Investment",
@@ -4598,7 +4694,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 SEP 2026",
-      "id": 268
+      "id": 274
     },
     {
       "competitor": "Smart Property Investment",
@@ -4615,7 +4711,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 SEP 2026",
-      "id": 269
+      "id": 275
     },
     {
       "competitor": "Smart Property Investment",
@@ -4632,7 +4728,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 SEP 2026",
-      "id": 270
+      "id": 276
     },
     {
       "competitor": "Smart Property Investment",
@@ -4649,7 +4745,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 SEP 2026",
-      "id": 271
+      "id": 277
     },
     {
       "competitor": "Property Update",
@@ -4666,7 +4762,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-07",
-      "id": 272
+      "id": 278
     },
     {
       "competitor": "Property Update",
@@ -4683,7 +4779,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-06",
-      "id": 273
+      "id": 279
     },
     {
       "competitor": "Property Update",
@@ -4700,7 +4796,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-06",
-      "id": 274
+      "id": 280
     },
     {
       "competitor": "Property Update",
@@ -4717,7 +4813,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-06",
-      "id": 275
+      "id": 281
     },
     {
       "competitor": "realestate.com.au",
@@ -4734,7 +4830,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "5 Sep 2026",
-      "id": 276
+      "id": 282
     },
     {
       "competitor": "Property Update",
@@ -4751,7 +4847,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-04",
-      "id": 277
+      "id": 283
     },
     {
       "competitor": "Property Update",
@@ -4768,7 +4864,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-04",
-      "id": 278
+      "id": 284
     },
     {
       "competitor": "Property Update",
@@ -4785,7 +4881,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-04",
-      "id": 279
+      "id": 285
     },
     {
       "competitor": "Property Update",
@@ -4802,7 +4898,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-04",
-      "id": 280
+      "id": 286
     },
     {
       "competitor": "Smart Property Investment",
@@ -4819,7 +4915,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 SEP 2026",
-      "id": 281
+      "id": 287
     },
     {
       "competitor": "Smart Property Investment",
@@ -4836,7 +4932,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 SEP 2026",
-      "id": 282
+      "id": 288
     },
     {
       "competitor": "Smart Property Investment",
@@ -4853,7 +4949,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 SEP 2026",
-      "id": 283
+      "id": 289
     },
     {
       "competitor": "Your Investment Property",
@@ -4870,7 +4966,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 Sep, 2026",
-      "id": 284
+      "id": 290
     },
     {
       "competitor": "Property Update",
@@ -4887,7 +4983,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-03",
-      "id": 285
+      "id": 291
     },
     {
       "competitor": "Property Update",
@@ -4904,7 +5000,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-03",
-      "id": 286
+      "id": 292
     },
     {
       "competitor": "Smart Property Investment",
@@ -4921,7 +5017,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 SEP 2026",
-      "id": 287
+      "id": 293
     },
     {
       "competitor": "Smart Property Investment",
@@ -4938,7 +5034,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 SEP 2026",
-      "id": 288
+      "id": 294
     },
     {
       "competitor": "Smart Property Investment",
@@ -4955,7 +5051,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 SEP 2026",
-      "id": 289
+      "id": 295
     },
     {
       "competitor": "Property Update",
@@ -4972,7 +5068,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-02",
-      "id": 290
+      "id": 296
     },
     {
       "competitor": "Smart Property Investment",
@@ -4989,7 +5085,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 SEP 2026",
-      "id": 291
+      "id": 297
     },
     {
       "competitor": "Smart Property Investment",
@@ -5006,7 +5102,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 SEP 2026",
-      "id": 292
+      "id": 298
     },
     {
       "competitor": "Smart Property Investment",
@@ -5023,7 +5119,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 SEP 2026",
-      "id": 293
+      "id": 299
     },
     {
       "competitor": "Your Investment Property",
@@ -5040,7 +5136,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 Sep, 2026",
-      "id": 294
+      "id": 300
     },
     {
       "competitor": "Your Investment Property",
@@ -5057,7 +5153,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 Sep, 2026",
-      "id": 295
+      "id": 301
     },
     {
       "competitor": "Property Update",
@@ -5074,7 +5170,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-01",
-      "id": 296
+      "id": 302
     },
     {
       "competitor": "Property Update",
@@ -5091,7 +5187,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-01",
-      "id": 297
+      "id": 303
     },
     {
       "competitor": "SQM Research",
@@ -5108,7 +5204,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-09-01",
-      "id": 298
+      "id": 304
     },
     {
       "competitor": "realestate.com.au",
@@ -5125,7 +5221,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "1 Sep 2026",
-      "id": 299
+      "id": 305
     },
     {
       "competitor": "realestate.com.au",
@@ -5142,7 +5238,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "1 Sep 2026",
-      "id": 300
+      "id": 306
     },
     {
       "competitor": "SQM Research",
@@ -5159,7 +5255,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-09-01",
-      "id": 301
+      "id": 307
     },
     {
       "competitor": "Smart Property Investment",
@@ -5176,7 +5272,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "31 AUG 2026",
-      "id": 302
+      "id": 308
     },
     {
       "competitor": "Smart Property Investment",
@@ -5193,7 +5289,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "31 AUG 2026",
-      "id": 303
+      "id": 309
     },
     {
       "competitor": "Smart Property Investment",
@@ -5210,7 +5306,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "31 AUG 2026",
-      "id": 304
+      "id": 310
     },
     {
       "competitor": "Property Update",
@@ -5227,7 +5323,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-31",
-      "id": 305
+      "id": 311
     },
     {
       "competitor": "Property Update",
@@ -5244,7 +5340,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-31",
-      "id": 306
+      "id": 312
     },
     {
       "competitor": "Property Update",
@@ -5261,7 +5357,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-30",
-      "id": 307
+      "id": 313
     },
     {
       "competitor": "Property Update",
@@ -5278,7 +5374,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-30",
-      "id": 308
+      "id": 314
     },
     {
       "competitor": "Property Update",
@@ -5295,7 +5391,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-30",
-      "id": 309
+      "id": 315
     },
     {
       "competitor": "Property Update",
@@ -5312,7 +5408,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-28",
-      "id": 310
+      "id": 316
     },
     {
       "competitor": "Property Update",
@@ -5329,7 +5425,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-28",
-      "id": 311
+      "id": 317
     },
     {
       "competitor": "Property Update",
@@ -5346,7 +5442,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-28",
-      "id": 312
+      "id": 318
     },
     {
       "competitor": "Property Update",
@@ -5363,7 +5459,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-28",
-      "id": 313
+      "id": 319
     },
     {
       "competitor": "Smart Property Investment",
@@ -5380,7 +5476,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "27 AUG 2026",
-      "id": 314
+      "id": 320
     },
     {
       "competitor": "Smart Property Investment",
@@ -5397,7 +5493,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "27 AUG 2026",
-      "id": 315
+      "id": 321
     },
     {
       "competitor": "Smart Property Investment",
@@ -5414,7 +5510,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "27 AUG 2026",
-      "id": 316
+      "id": 322
     },
     {
       "competitor": "Property Update",
@@ -5431,7 +5527,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-27",
-      "id": 317
+      "id": 323
     },
     {
       "competitor": "Property Update",
@@ -5448,7 +5544,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-27",
-      "id": 318
+      "id": 324
     },
     {
       "competitor": "Smart Property Investment",
@@ -5465,7 +5561,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "26 AUG 2026",
-      "id": 319
+      "id": 325
     },
     {
       "competitor": "Smart Property Investment",
@@ -5482,7 +5578,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "26 AUG 2026",
-      "id": 320
+      "id": 326
     },
     {
       "competitor": "Property Update",
@@ -5499,7 +5595,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-26",
-      "id": 321
+      "id": 327
     },
     {
       "competitor": "Property Update",
@@ -5516,7 +5612,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-26",
-      "id": 322
+      "id": 328
     },
     {
       "competitor": "Smart Property Investment",
@@ -5533,7 +5629,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "25 AUG 2026",
-      "id": 323
+      "id": 329
     },
     {
       "competitor": "Smart Property Investment",
@@ -5550,7 +5646,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "25 AUG 2026",
-      "id": 324
+      "id": 330
     },
     {
       "competitor": "Your Investment Property",
@@ -5567,7 +5663,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "25 Aug, 2026",
-      "id": 325
+      "id": 331
     },
     {
       "competitor": "Property Update",
@@ -5584,7 +5680,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-25",
-      "id": 326
+      "id": 332
     },
     {
       "competitor": "Property Update",
@@ -5601,7 +5697,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-25",
-      "id": 327
+      "id": 333
     },
     {
       "competitor": "SQM Research",
@@ -5618,7 +5714,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-25",
-      "id": 328
+      "id": 334
     },
     {
       "competitor": "Smart Property Investment",
@@ -5635,7 +5731,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 AUG 2026",
-      "id": 329
+      "id": 335
     },
     {
       "competitor": "Smart Property Investment",
@@ -5652,7 +5748,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 AUG 2026",
-      "id": 330
+      "id": 336
     },
     {
       "competitor": "Smart Property Investment",
@@ -5669,7 +5765,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 AUG 2026",
-      "id": 331
+      "id": 337
     },
     {
       "competitor": "Smart Property Investment",
@@ -5686,7 +5782,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 AUG 2026",
-      "id": 332
+      "id": 338
     },
     {
       "competitor": "Property Update",
@@ -5703,7 +5799,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-24",
-      "id": 333
+      "id": 339
     },
     {
       "competitor": "Property Update",
@@ -5720,7 +5816,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-24",
-      "id": 334
+      "id": 340
     },
     {
       "competitor": "Property Update",
@@ -5737,7 +5833,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-24",
-      "id": 335
+      "id": 341
     },
     {
       "competitor": "Property Update",
@@ -5754,7 +5850,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-23",
-      "id": 336
+      "id": 342
     },
     {
       "competitor": "Property Update",
@@ -5771,7 +5867,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-23",
-      "id": 337
+      "id": 343
     },
     {
       "competitor": "Property Update",
@@ -5788,7 +5884,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-23",
-      "id": 338
+      "id": 344
     },
     {
       "competitor": "Property Update",
@@ -5805,7 +5901,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-23",
-      "id": 339
+      "id": 345
     },
     {
       "competitor": "Property Update",
@@ -5822,7 +5918,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-22",
-      "id": 340
+      "id": 346
     },
     {
       "competitor": "Property Update",
@@ -5839,7 +5935,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-22",
-      "id": 341
+      "id": 347
     },
     {
       "competitor": "Your Investment Property",
@@ -5856,7 +5952,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 Aug, 2026",
-      "id": 342
+      "id": 348
     },
     {
       "competitor": "Property Update",
@@ -5873,7 +5969,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-21",
-      "id": 343
+      "id": 349
     },
     {
       "competitor": "Property Update",
@@ -5890,7 +5986,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-21",
-      "id": 344
+      "id": 350
     },
     {
       "competitor": "Property Update",
@@ -5907,7 +6003,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-21",
-      "id": 345
+      "id": 351
     },
     {
       "competitor": "Smart Property Investment",
@@ -5924,7 +6020,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "20 AUG 2026",
-      "id": 346
+      "id": 352
     },
     {
       "competitor": "Smart Property Investment",
@@ -5941,7 +6037,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "20 AUG 2026",
-      "id": 347
+      "id": 353
     },
     {
       "competitor": "Smart Property Investment",
@@ -5958,7 +6054,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "20 AUG 2026",
-      "id": 348
+      "id": 354
     },
     {
       "competitor": "Property Update",
@@ -5975,7 +6071,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-20",
-      "id": 349
+      "id": 355
     },
     {
       "competitor": "Smart Property Investment",
@@ -5992,7 +6088,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "19 AUG 2026",
-      "id": 350
+      "id": 356
     },
     {
       "competitor": "Smart Property Investment",
@@ -6009,7 +6105,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "19 AUG 2026",
-      "id": 351
+      "id": 357
     },
     {
       "competitor": "Smart Property Investment",
@@ -6026,7 +6122,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "19 AUG 2026",
-      "id": 352
+      "id": 358
     },
     {
       "competitor": "Smart Property Investment",
@@ -6043,7 +6139,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "19 AUG 2026",
-      "id": 353
+      "id": 359
     },
     {
       "competitor": "realestate.com.au",
@@ -6060,7 +6156,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "19 Aug 2026",
-      "id": 354
+      "id": 360
     },
     {
       "competitor": "Smart Property Investment",
@@ -6077,7 +6173,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 AUG 2026",
-      "id": 355
+      "id": 361
     },
     {
       "competitor": "Smart Property Investment",
@@ -6094,7 +6190,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 AUG 2026",
-      "id": 356
+      "id": 362
     },
     {
       "competitor": "Smart Property Investment",
@@ -6111,7 +6207,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 AUG 2026",
-      "id": 357
+      "id": 363
     },
     {
       "competitor": "Smart Property Investment",
@@ -6128,7 +6224,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 AUG 2026",
-      "id": 358
+      "id": 364
     },
     {
       "competitor": "Your Investment Property",
@@ -6145,7 +6241,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 Aug, 2026",
-      "id": 359
+      "id": 365
     },
     {
       "competitor": "Property Update",
@@ -6162,7 +6258,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-18",
-      "id": 360
+      "id": 366
     },
     {
       "competitor": "SQM Research",
@@ -6179,7 +6275,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-18",
-      "id": 361
+      "id": 367
     },
     {
       "competitor": "Your Investment Property",
@@ -6195,7 +6291,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 362
+      "id": 368
     },
     {
       "competitor": "Smart Property Investment",
@@ -6212,7 +6308,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 AUG 2026",
-      "id": 363
+      "id": 369
     },
     {
       "competitor": "Smart Property Investment",
@@ -6229,7 +6325,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 AUG 2026",
-      "id": 364
+      "id": 370
     },
     {
       "competitor": "Smart Property Investment",
@@ -6246,7 +6342,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 AUG 2026",
-      "id": 365
+      "id": 371
     },
     {
       "competitor": "Smart Property Investment",
@@ -6263,7 +6359,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 AUG 2026",
-      "id": 366
+      "id": 372
     },
     {
       "competitor": "Property Update",
@@ -6280,7 +6376,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-17",
-      "id": 367
+      "id": 373
     },
     {
       "competitor": "Property Update",
@@ -6297,7 +6393,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-17",
-      "id": 368
+      "id": 374
     },
     {
       "competitor": "Property Update",
@@ -6314,7 +6410,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-16",
-      "id": 369
+      "id": 375
     },
     {
       "competitor": "Property Update",
@@ -6331,7 +6427,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-15",
-      "id": 370
+      "id": 376
     },
     {
       "competitor": "Property Update",
@@ -6348,7 +6444,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-14",
-      "id": 371
+      "id": 377
     },
     {
       "competitor": "Property Update",
@@ -6365,7 +6461,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-14",
-      "id": 372
+      "id": 378
     },
     {
       "competitor": "Smart Property Investment",
@@ -6382,7 +6478,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "13 AUG 2026",
-      "id": 373
+      "id": 379
     },
     {
       "competitor": "Smart Property Investment",
@@ -6399,7 +6495,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "13 AUG 2026",
-      "id": 374
+      "id": 380
     },
     {
       "competitor": "Smart Property Investment",
@@ -6416,7 +6512,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "13 AUG 2026",
-      "id": 375
+      "id": 381
     },
     {
       "competitor": "Smart Property Investment",
@@ -6433,7 +6529,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "13 AUG 2026",
-      "id": 376
+      "id": 382
     },
     {
       "competitor": "Property Update",
@@ -6450,7 +6546,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-13",
-      "id": 377
+      "id": 383
     },
     {
       "competitor": "Property Update",
@@ -6467,7 +6563,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-13",
-      "id": 378
+      "id": 384
     },
     {
       "competitor": "SQM Research",
@@ -6484,7 +6580,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-13",
-      "id": 379
+      "id": 385
     },
     {
       "competitor": "SQM Research",
@@ -6500,7 +6596,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 380
+      "id": 386
     },
     {
       "competitor": "Smart Property Investment",
@@ -6517,7 +6613,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "12 AUG 2026",
-      "id": 381
+      "id": 387
     },
     {
       "competitor": "Smart Property Investment",
@@ -6534,7 +6630,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "12 AUG 2026",
-      "id": 382
+      "id": 388
     },
     {
       "competitor": "Smart Property Investment",
@@ -6551,7 +6647,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "12 AUG 2026",
-      "id": 383
+      "id": 389
     },
     {
       "competitor": "Property Update",
@@ -6568,7 +6664,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-12",
-      "id": 384
+      "id": 390
     },
     {
       "competitor": "Smart Property Investment",
@@ -6585,7 +6681,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 AUG 2026",
-      "id": 385
+      "id": 391
     },
     {
       "competitor": "Smart Property Investment",
@@ -6602,7 +6698,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 AUG 2026",
-      "id": 386
+      "id": 392
     },
     {
       "competitor": "Smart Property Investment",
@@ -6619,7 +6715,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 AUG 2026",
-      "id": 387
+      "id": 393
     },
     {
       "competitor": "Smart Property Investment",
@@ -6636,7 +6732,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 AUG 2026",
-      "id": 388
+      "id": 394
     },
     {
       "competitor": "Property Update",
@@ -6653,7 +6749,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-11",
-      "id": 389
+      "id": 395
     },
     {
       "competitor": "realestate.com.au",
@@ -6670,7 +6766,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 Aug 2026",
-      "id": 390
+      "id": 396
     },
     {
       "competitor": "SQM Research",
@@ -6687,7 +6783,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-11",
-      "id": 391
+      "id": 397
     },
     {
       "competitor": "Smart Property Investment",
@@ -6704,7 +6800,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 AUG 2026",
-      "id": 392
+      "id": 398
     },
     {
       "competitor": "Smart Property Investment",
@@ -6721,7 +6817,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 AUG 2026",
-      "id": 393
+      "id": 399
     },
     {
       "competitor": "Smart Property Investment",
@@ -6738,7 +6834,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 AUG 2026",
-      "id": 394
+      "id": 400
     },
     {
       "competitor": "Property Update",
@@ -6755,7 +6851,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-10",
-      "id": 395
+      "id": 401
     },
     {
       "competitor": "Property Update",
@@ -6772,7 +6868,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-10",
-      "id": 396
+      "id": 402
     },
     {
       "competitor": "Property Update",
@@ -6789,7 +6885,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-10",
-      "id": 397
+      "id": 403
     },
     {
       "competitor": "Property Update",
@@ -6806,7 +6902,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-09",
-      "id": 398
+      "id": 404
     },
     {
       "competitor": "Property Update",
@@ -6823,7 +6919,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-09",
-      "id": 399
+      "id": 405
     },
     {
       "competitor": "Property Update",
@@ -6840,7 +6936,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-08",
-      "id": 400
+      "id": 406
     },
     {
       "competitor": "Smart Property Investment",
@@ -6857,7 +6953,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 AUG 2026",
-      "id": 401
+      "id": 407
     },
     {
       "competitor": "Property Update",
@@ -6874,7 +6970,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-07",
-      "id": 402
+      "id": 408
     },
     {
       "competitor": "Property Update",
@@ -6891,7 +6987,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-07",
-      "id": 403
+      "id": 409
     },
     {
       "competitor": "Smart Property Investment",
@@ -6908,7 +7004,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 AUG 2026",
-      "id": 404
+      "id": 410
     },
     {
       "competitor": "Smart Property Investment",
@@ -6925,7 +7021,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 AUG 2026",
-      "id": 405
+      "id": 411
     },
     {
       "competitor": "Smart Property Investment",
@@ -6942,7 +7038,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 AUG 2026",
-      "id": 406
+      "id": 412
     },
     {
       "competitor": "Smart Property Investment",
@@ -6959,7 +7055,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 AUG 2026",
-      "id": 407
+      "id": 413
     },
     {
       "competitor": "Property Update",
@@ -6976,7 +7072,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-06",
-      "id": 408
+      "id": 414
     },
     {
       "competitor": "Smart Property Investment",
@@ -6993,7 +7089,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "05 AUG 2026",
-      "id": 409
+      "id": 415
     },
     {
       "competitor": "Smart Property Investment",
@@ -7010,7 +7106,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "05 AUG 2026",
-      "id": 410
+      "id": 416
     },
     {
       "competitor": "Smart Property Investment",
@@ -7027,7 +7123,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "05 AUG 2026",
-      "id": 411
+      "id": 417
     },
     {
       "competitor": "Your Investment Property",
@@ -7044,7 +7140,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "05 Aug, 2026",
-      "id": 412
+      "id": 418
     },
     {
       "competitor": "Property Update",
@@ -7061,7 +7157,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-05",
-      "id": 413
+      "id": 419
     },
     {
       "competitor": "Smart Property Investment",
@@ -7078,7 +7174,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "04 AUG 2026",
-      "id": 414
+      "id": 420
     },
     {
       "competitor": "Smart Property Investment",
@@ -7095,7 +7191,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "04 AUG 2026",
-      "id": 415
+      "id": 421
     },
     {
       "competitor": "Smart Property Investment",
@@ -7112,7 +7208,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "04 AUG 2026",
-      "id": 416
+      "id": 422
     },
     {
       "competitor": "Property Update",
@@ -7129,7 +7225,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-04",
-      "id": 417
+      "id": 423
     },
     {
       "competitor": "Domain",
@@ -7146,7 +7242,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "AUGUST 04 2026",
-      "id": 418
+      "id": 424
     },
     {
       "competitor": "SQM Research",
@@ -7163,7 +7259,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-04",
-      "id": 419
+      "id": 425
     },
     {
       "competitor": "SQM Research",
@@ -7180,7 +7276,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-08-04",
-      "id": 420
+      "id": 426
     },
     {
       "competitor": "Smart Property Investment",
@@ -7197,7 +7293,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 AUG 2026",
-      "id": 421
+      "id": 427
     },
     {
       "competitor": "Smart Property Investment",
@@ -7214,7 +7310,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 AUG 2026",
-      "id": 422
+      "id": 428
     },
     {
       "competitor": "Smart Property Investment",
@@ -7231,7 +7327,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 AUG 2026",
-      "id": 423
+      "id": 429
     },
     {
       "competitor": "Smart Property Investment",
@@ -7248,7 +7344,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 AUG 2026",
-      "id": 424
+      "id": 430
     },
     {
       "competitor": "Your Investment Property",
@@ -7265,7 +7361,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 Aug, 2026",
-      "id": 425
+      "id": 431
     },
     {
       "competitor": "Property Update",
@@ -7282,7 +7378,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-03",
-      "id": 426
+      "id": 432
     },
     {
       "competitor": "Property Update",
@@ -7299,7 +7395,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-03",
-      "id": 427
+      "id": 433
     },
     {
       "competitor": "Property Update",
@@ -7316,7 +7412,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-03",
-      "id": 428
+      "id": 434
     },
     {
       "competitor": "Property Update",
@@ -7333,7 +7429,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-03",
-      "id": 429
+      "id": 435
     },
     {
       "competitor": "realestate.com.au",
@@ -7350,7 +7446,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "3 Aug 2026",
-      "id": 430
+      "id": 436
     },
     {
       "competitor": "Property Update",
@@ -7367,7 +7463,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-02",
-      "id": 431
+      "id": 437
     },
     {
       "competitor": "Property Update",
@@ -7384,7 +7480,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-08-01",
-      "id": 432
+      "id": 438
     },
     {
       "competitor": "Property Update",
@@ -7401,7 +7497,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-31",
-      "id": 433
+      "id": 439
     },
     {
       "competitor": "Property Update",
@@ -7418,7 +7514,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-31",
-      "id": 434
+      "id": 440
     },
     {
       "competitor": "Property Update",
@@ -7435,7 +7531,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-31",
-      "id": 435
+      "id": 441
     },
     {
       "competitor": "Property Update",
@@ -7452,7 +7548,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-31",
-      "id": 436
+      "id": 442
     },
     {
       "competitor": "Smart Property Investment",
@@ -7469,7 +7565,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 JUL 2026",
-      "id": 437
+      "id": 443
     },
     {
       "competitor": "Smart Property Investment",
@@ -7486,7 +7582,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 JUL 2026",
-      "id": 438
+      "id": 444
     },
     {
       "competitor": "Smart Property Investment",
@@ -7503,7 +7599,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 JUL 2026",
-      "id": 439
+      "id": 445
     },
     {
       "competitor": "Property Update",
@@ -7520,7 +7616,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-30",
-      "id": 440
+      "id": 446
     },
     {
       "competitor": "Property Update",
@@ -7537,7 +7633,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-30",
-      "id": 441
+      "id": 447
     },
     {
       "competitor": "Smart Property Investment",
@@ -7554,7 +7650,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 JUL 2026",
-      "id": 442
+      "id": 448
     },
     {
       "competitor": "Smart Property Investment",
@@ -7571,7 +7667,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 JUL 2026",
-      "id": 443
+      "id": 449
     },
     {
       "competitor": "Smart Property Investment",
@@ -7588,7 +7684,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 JUL 2026",
-      "id": 444
+      "id": 450
     },
     {
       "competitor": "Property Update",
@@ -7605,7 +7701,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-29",
-      "id": 445
+      "id": 451
     },
     {
       "competitor": "Property Update",
@@ -7622,7 +7718,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-29",
-      "id": 446
+      "id": 452
     },
     {
       "competitor": "Property Update",
@@ -7639,7 +7735,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-29",
-      "id": 447
+      "id": 453
     },
     {
       "competitor": "Your Investment Property",
@@ -7656,7 +7752,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 Jul, 2026",
-      "id": 448
+      "id": 454
     },
     {
       "competitor": "realestate.com.au",
@@ -7673,7 +7769,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 Jul 2026",
-      "id": 449
+      "id": 455
     },
     {
       "competitor": "Smart Property Investment",
@@ -7690,7 +7786,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "28 JUL 2026",
-      "id": 450
+      "id": 456
     },
     {
       "competitor": "Smart Property Investment",
@@ -7707,7 +7803,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "28 JUL 2026",
-      "id": 451
+      "id": 457
     },
     {
       "competitor": "Smart Property Investment",
@@ -7724,7 +7820,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "28 JUL 2026",
-      "id": 452
+      "id": 458
     },
     {
       "competitor": "Property Update",
@@ -7741,7 +7837,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-28",
-      "id": 453
+      "id": 459
     },
     {
       "competitor": "Property Update",
@@ -7758,7 +7854,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-28",
-      "id": 454
+      "id": 460
     },
     {
       "competitor": "Your Investment Property",
@@ -7775,7 +7871,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "28 Jul, 2026",
-      "id": 455
+      "id": 461
     },
     {
       "competitor": "SQM Research",
@@ -7792,7 +7888,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-07-28",
-      "id": 456
+      "id": 462
     },
     {
       "competitor": "Smart Property Investment",
@@ -7809,7 +7905,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "27 JUL 2026",
-      "id": 457
+      "id": 463
     },
     {
       "competitor": "Smart Property Investment",
@@ -7826,7 +7922,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "27 JUL 2026",
-      "id": 458
+      "id": 464
     },
     {
       "competitor": "Smart Property Investment",
@@ -7843,7 +7939,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "27 JUL 2026",
-      "id": 459
+      "id": 465
     },
     {
       "competitor": "Property Update",
@@ -7860,7 +7956,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-27",
-      "id": 460
+      "id": 466
     },
     {
       "competitor": "Property Update",
@@ -7877,7 +7973,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-26",
-      "id": 461
+      "id": 467
     },
     {
       "competitor": "Property Update",
@@ -7894,7 +7990,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-26",
-      "id": 462
+      "id": 468
     },
     {
       "competitor": "Smart Property Investment",
@@ -7911,7 +8007,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 JUL 2026",
-      "id": 463
+      "id": 469
     },
     {
       "competitor": "Property Update",
@@ -7928,7 +8024,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-24",
-      "id": 464
+      "id": 470
     },
     {
       "competitor": "Property Update",
@@ -7945,7 +8041,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-24",
-      "id": 465
+      "id": 471
     },
     {
       "competitor": "Property Update",
@@ -7962,7 +8058,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-24",
-      "id": 466
+      "id": 472
     },
     {
       "competitor": "Your Investment Property",
@@ -7979,7 +8075,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 Jul, 2026",
-      "id": 467
+      "id": 473
     },
     {
       "competitor": "Smart Property Investment",
@@ -7996,7 +8092,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 JUL 2026",
-      "id": 468
+      "id": 474
     },
     {
       "competitor": "Smart Property Investment",
@@ -8013,7 +8109,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 JUL 2026",
-      "id": 469
+      "id": 475
     },
     {
       "competitor": "Smart Property Investment",
@@ -8030,7 +8126,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 JUL 2026",
-      "id": 470
+      "id": 476
     },
     {
       "competitor": "Property Update",
@@ -8047,7 +8143,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-23",
-      "id": 471
+      "id": 477
     },
     {
       "competitor": "Property Update",
@@ -8064,7 +8160,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-23",
-      "id": 472
+      "id": 478
     },
     {
       "competitor": "Smart Property Investment",
@@ -8081,7 +8177,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 JUL 2026",
-      "id": 473
+      "id": 479
     },
     {
       "competitor": "Smart Property Investment",
@@ -8098,7 +8194,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 JUL 2026",
-      "id": 474
+      "id": 480
     },
     {
       "competitor": "Smart Property Investment",
@@ -8115,7 +8211,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 JUL 2026",
-      "id": 475
+      "id": 481
     },
     {
       "competitor": "Property Update",
@@ -8132,7 +8228,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-22",
-      "id": 476
+      "id": 482
     },
     {
       "competitor": "Property Update",
@@ -8149,7 +8245,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-22",
-      "id": 477
+      "id": 483
     },
     {
       "competitor": "realestate.com.au",
@@ -8166,7 +8262,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 Jul 2026",
-      "id": 478
+      "id": 484
     },
     {
       "competitor": "Smart Property Investment",
@@ -8183,7 +8279,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 JUL 2026",
-      "id": 479
+      "id": 485
     },
     {
       "competitor": "Smart Property Investment",
@@ -8200,7 +8296,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 JUL 2026",
-      "id": 480
+      "id": 486
     },
     {
       "competitor": "Smart Property Investment",
@@ -8217,7 +8313,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 JUL 2026",
-      "id": 481
+      "id": 487
     },
     {
       "competitor": "Property Update",
@@ -8234,7 +8330,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-21",
-      "id": 482
+      "id": 488
     },
     {
       "competitor": "realestate.com.au",
@@ -8251,7 +8347,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "21 Jul 2026",
-      "id": 483
+      "id": 489
     },
     {
       "competitor": "SQM Research",
@@ -8268,7 +8364,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-07-21",
-      "id": 484
+      "id": 490
     },
     {
       "competitor": "Smart Property Investment",
@@ -8285,7 +8381,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "20 JUL 2026",
-      "id": 485
+      "id": 491
     },
     {
       "competitor": "Smart Property Investment",
@@ -8302,7 +8398,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "20 JUL 2026",
-      "id": 486
+      "id": 492
     },
     {
       "competitor": "Smart Property Investment",
@@ -8319,7 +8415,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "20 JUL 2026",
-      "id": 487
+      "id": 493
     },
     {
       "competitor": "Smart Property Investment",
@@ -8336,7 +8432,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "20 JUL 2026",
-      "id": 488
+      "id": 494
     },
     {
       "competitor": "Property Update",
@@ -8353,7 +8449,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-20",
-      "id": 489
+      "id": 495
     },
     {
       "competitor": "Property Update",
@@ -8370,7 +8466,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-19",
-      "id": 490
+      "id": 496
     },
     {
       "competitor": "Property Update",
@@ -8387,7 +8483,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-19",
-      "id": 491
+      "id": 497
     },
     {
       "competitor": "Property Update",
@@ -8404,7 +8500,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-18",
-      "id": 492
+      "id": 498
     },
     {
       "competitor": "Property Update",
@@ -8421,7 +8517,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-17",
-      "id": 493
+      "id": 499
     },
     {
       "competitor": "Property Update",
@@ -8438,7 +8534,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-17",
-      "id": 494
+      "id": 500
     },
     {
       "competitor": "Property Update",
@@ -8455,7 +8551,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-17",
-      "id": 495
+      "id": 501
     },
     {
       "competitor": "Smart Property Investment",
@@ -8472,7 +8568,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 JUL 2026",
-      "id": 496
+      "id": 502
     },
     {
       "competitor": "Smart Property Investment",
@@ -8489,7 +8585,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 JUL 2026",
-      "id": 497
+      "id": 503
     },
     {
       "competitor": "Property Update",
@@ -8506,7 +8602,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-16",
-      "id": 498
+      "id": 504
     },
     {
       "competitor": "Smart Property Investment",
@@ -8523,7 +8619,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 JUL 2026",
-      "id": 499
+      "id": 505
     },
     {
       "competitor": "Smart Property Investment",
@@ -8540,7 +8636,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 JUL 2026",
-      "id": 500
+      "id": 506
     },
     {
       "competitor": "Smart Property Investment",
@@ -8557,7 +8653,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 JUL 2026",
-      "id": 501
+      "id": 507
     },
     {
       "competitor": "Smart Property Investment",
@@ -8574,7 +8670,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 JUL 2026",
-      "id": 502
+      "id": 508
     },
     {
       "competitor": "Property Update",
@@ -8591,7 +8687,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-15",
-      "id": 503
+      "id": 509
     },
     {
       "competitor": "realestate.com.au",
@@ -8608,7 +8704,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 Jul 2026",
-      "id": 504
+      "id": 510
     },
     {
       "competitor": "Smart Property Investment",
@@ -8625,7 +8721,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "14 JUL 2026",
-      "id": 505
+      "id": 511
     },
     {
       "competitor": "Smart Property Investment",
@@ -8642,7 +8738,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "14 JUL 2026",
-      "id": 506
+      "id": 512
     },
     {
       "competitor": "Your Investment Property",
@@ -8659,7 +8755,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "14 Jul, 2026",
-      "id": 507
+      "id": 513
     },
     {
       "competitor": "Property Update",
@@ -8676,7 +8772,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-14",
-      "id": 508
+      "id": 514
     },
     {
       "competitor": "SQM Research",
@@ -8693,7 +8789,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-07-14",
-      "id": 509
+      "id": 515
     },
     {
       "competitor": "Smart Property Investment",
@@ -8710,7 +8806,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "13 JUL 2026",
-      "id": 510
+      "id": 516
     },
     {
       "competitor": "Smart Property Investment",
@@ -8727,7 +8823,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "13 JUL 2026",
-      "id": 511
+      "id": 517
     },
     {
       "competitor": "Smart Property Investment",
@@ -8744,7 +8840,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "13 JUL 2026",
-      "id": 512
+      "id": 518
     },
     {
       "competitor": "Smart Property Investment",
@@ -8761,7 +8857,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "13 JUL 2026",
-      "id": 513
+      "id": 519
     },
     {
       "competitor": "Property Update",
@@ -8778,7 +8874,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-13",
-      "id": 514
+      "id": 520
     },
     {
       "competitor": "Property Update",
@@ -8795,7 +8891,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-13",
-      "id": 515
+      "id": 521
     },
     {
       "competitor": "Property Update",
@@ -8812,7 +8908,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-12",
-      "id": 516
+      "id": 522
     },
     {
       "competitor": "Property Update",
@@ -8829,7 +8925,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-12",
-      "id": 517
+      "id": 523
     },
     {
       "competitor": "Property Update",
@@ -8846,7 +8942,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-12",
-      "id": 518
+      "id": 524
     },
     {
       "competitor": "Property Update",
@@ -8863,7 +8959,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-10",
-      "id": 519
+      "id": 525
     },
     {
       "competitor": "Property Update",
@@ -8880,7 +8976,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-10",
-      "id": 520
+      "id": 526
     },
     {
       "competitor": "Property Update",
@@ -8897,7 +8993,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-10",
-      "id": 521
+      "id": 527
     },
     {
       "competitor": "Property Update",
@@ -8914,7 +9010,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-10",
-      "id": 522
+      "id": 528
     },
     {
       "competitor": "Smart Property Investment",
@@ -8931,7 +9027,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 JUL 2026",
-      "id": 523
+      "id": 529
     },
     {
       "competitor": "Smart Property Investment",
@@ -8948,7 +9044,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 JUL 2026",
-      "id": 524
+      "id": 530
     },
     {
       "competitor": "Smart Property Investment",
@@ -8965,7 +9061,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 JUL 2026",
-      "id": 525
+      "id": 531
     },
     {
       "competitor": "Smart Property Investment",
@@ -8982,7 +9078,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 JUL 2026",
-      "id": 526
+      "id": 532
     },
     {
       "competitor": "Your Investment Property",
@@ -8999,7 +9095,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 Jul, 2026",
-      "id": 527
+      "id": 533
     },
     {
       "competitor": "Your Investment Property",
@@ -9016,7 +9112,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 Jul, 2026",
-      "id": 528
+      "id": 534
     },
     {
       "competitor": "Smart Property Investment",
@@ -9033,7 +9129,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 JUL 2026",
-      "id": 529
+      "id": 535
     },
     {
       "competitor": "Smart Property Investment",
@@ -9050,7 +9146,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 JUL 2026",
-      "id": 530
+      "id": 536
     },
     {
       "competitor": "Smart Property Investment",
@@ -9067,7 +9163,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 JUL 2026",
-      "id": 531
+      "id": 537
     },
     {
       "competitor": "Property Update",
@@ -9084,7 +9180,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-08",
-      "id": 532
+      "id": 538
     },
     {
       "competitor": "realestate.com.au",
@@ -9101,7 +9197,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "8 Jul 2026",
-      "id": 533
+      "id": 539
     },
     {
       "competitor": "Smart Property Investment",
@@ -9118,7 +9214,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 JUL 2026",
-      "id": 534
+      "id": 540
     },
     {
       "competitor": "Smart Property Investment",
@@ -9135,7 +9231,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 JUL 2026",
-      "id": 535
+      "id": 541
     },
     {
       "competitor": "Smart Property Investment",
@@ -9152,7 +9248,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "07 JUL 2026",
-      "id": 536
+      "id": 542
     },
     {
       "competitor": "Property Update",
@@ -9169,7 +9265,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-07",
-      "id": 537
+      "id": 543
     },
     {
       "competitor": "Property Update",
@@ -9186,7 +9282,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-07",
-      "id": 538
+      "id": 544
     },
     {
       "competitor": "SQM Research",
@@ -9203,7 +9299,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-07-07",
-      "id": 539
+      "id": 545
     },
     {
       "competitor": "Smart Property Investment",
@@ -9220,7 +9316,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 JUL 2026",
-      "id": 540
+      "id": 546
     },
     {
       "competitor": "Smart Property Investment",
@@ -9237,7 +9333,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 JUL 2026",
-      "id": 541
+      "id": 547
     },
     {
       "competitor": "Smart Property Investment",
@@ -9254,7 +9350,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 JUL 2026",
-      "id": 542
+      "id": 548
     },
     {
       "competitor": "Smart Property Investment",
@@ -9271,7 +9367,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "06 JUL 2026",
-      "id": 543
+      "id": 549
     },
     {
       "competitor": "Property Update",
@@ -9288,7 +9384,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-06",
-      "id": 544
+      "id": 550
     },
     {
       "competitor": "Property Update",
@@ -9305,7 +9401,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-06",
-      "id": 545
+      "id": 551
     },
     {
       "competitor": "Property Update",
@@ -9322,7 +9418,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-06",
-      "id": 546
+      "id": 552
     },
     {
       "competitor": "SQM Research",
@@ -9339,7 +9435,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-06",
-      "id": 547
+      "id": 553
     },
     {
       "competitor": "Property Update",
@@ -9356,7 +9452,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-05",
-      "id": 548
+      "id": 554
     },
     {
       "competitor": "Property Update",
@@ -9373,7 +9469,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-05",
-      "id": 549
+      "id": 555
     },
     {
       "competitor": "Property Update",
@@ -9390,7 +9486,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-04",
-      "id": 550
+      "id": 556
     },
     {
       "competitor": "Smart Property Investment",
@@ -9407,7 +9503,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 JUL 2026",
-      "id": 551
+      "id": 557
     },
     {
       "competitor": "Smart Property Investment",
@@ -9424,7 +9520,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 JUL 2026",
-      "id": 552
+      "id": 558
     },
     {
       "competitor": "Smart Property Investment",
@@ -9441,7 +9537,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 JUL 2026",
-      "id": 553
+      "id": 559
     },
     {
       "competitor": "Smart Property Investment",
@@ -9458,7 +9554,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 JUL 2026",
-      "id": 554
+      "id": 560
     },
     {
       "competitor": "Your Investment Property",
@@ -9475,7 +9571,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 Jul, 2026",
-      "id": 555
+      "id": 561
     },
     {
       "competitor": "Property Update",
@@ -9492,7 +9588,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-03",
-      "id": 556
+      "id": 562
     },
     {
       "competitor": "Property Update",
@@ -9509,7 +9605,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-03",
-      "id": 557
+      "id": 563
     },
     {
       "competitor": "Property Update",
@@ -9526,7 +9622,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-03",
-      "id": 558
+      "id": 564
     },
     {
       "competitor": "Property Update",
@@ -9543,7 +9639,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-03",
-      "id": 559
+      "id": 565
     },
     {
       "competitor": "Smart Property Investment",
@@ -9560,7 +9656,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 JUL 2026",
-      "id": 560
+      "id": 566
     },
     {
       "competitor": "Smart Property Investment",
@@ -9577,7 +9673,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 JUL 2026",
-      "id": 561
+      "id": 567
     },
     {
       "competitor": "Smart Property Investment",
@@ -9594,7 +9690,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 JUL 2026",
-      "id": 562
+      "id": 568
     },
     {
       "competitor": "Smart Property Investment",
@@ -9611,7 +9707,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 JUL 2026",
-      "id": 563
+      "id": 569
     },
     {
       "competitor": "Your Investment Property",
@@ -9628,7 +9724,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 Jul, 2026",
-      "id": 564
+      "id": 570
     },
     {
       "competitor": "Smart Property Investment",
@@ -9645,7 +9741,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 JUL 2026",
-      "id": 565
+      "id": 571
     },
     {
       "competitor": "Smart Property Investment",
@@ -9662,7 +9758,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 JUL 2026",
-      "id": 566
+      "id": 572
     },
     {
       "competitor": "Smart Property Investment",
@@ -9679,7 +9775,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 JUL 2026",
-      "id": 567
+      "id": 573
     },
     {
       "competitor": "Smart Property Investment",
@@ -9696,7 +9792,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 JUL 2026",
-      "id": 568
+      "id": 574
     },
     {
       "competitor": "Your Investment Property",
@@ -9713,7 +9809,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 Jul, 2026",
-      "id": 569
+      "id": 575
     },
     {
       "competitor": "Property Update",
@@ -9730,7 +9826,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-01",
-      "id": 570
+      "id": 576
     },
     {
       "competitor": "Property Update",
@@ -9747,7 +9843,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-01",
-      "id": 571
+      "id": 577
     },
     {
       "competitor": "Property Update",
@@ -9764,7 +9860,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-01",
-      "id": 572
+      "id": 578
     },
     {
       "competitor": "Property Update",
@@ -9781,7 +9877,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-01",
-      "id": 573
+      "id": 579
     },
     {
       "competitor": "Property Update",
@@ -9798,7 +9894,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-01",
-      "id": 574
+      "id": 580
     },
     {
       "competitor": "Domain",
@@ -9815,7 +9911,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "JULY 01 2026",
-      "id": 575
+      "id": 581
     },
     {
       "competitor": "realestate.com.au",
@@ -9832,7 +9928,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "1 Jul 2026",
-      "id": 576
+      "id": 582
     },
     {
       "competitor": "Smart Property Investment",
@@ -9849,7 +9945,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 JUN 2026",
-      "id": 577
+      "id": 583
     },
     {
       "competitor": "Smart Property Investment",
@@ -9866,7 +9962,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 JUN 2026",
-      "id": 578
+      "id": 584
     },
     {
       "competitor": "Smart Property Investment",
@@ -9883,7 +9979,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 JUN 2026",
-      "id": 579
+      "id": 585
     },
     {
       "competitor": "Your Investment Property",
@@ -9900,7 +9996,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 Jun, 2026",
-      "id": 580
+      "id": 586
     },
     {
       "competitor": "Your Investment Property",
@@ -9917,7 +10013,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "30 Jun, 2026",
-      "id": 581
+      "id": 587
     },
     {
       "competitor": "Property Update",
@@ -9934,7 +10030,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-30",
-      "id": 582
+      "id": 588
     },
     {
       "competitor": "SQM Research",
@@ -9951,7 +10047,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-06-30",
-      "id": 583
+      "id": 589
     },
     {
       "competitor": "Smart Property Investment",
@@ -9968,7 +10064,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 JUN 2026",
-      "id": 584
+      "id": 590
     },
     {
       "competitor": "Smart Property Investment",
@@ -9985,7 +10081,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "29 JUN 2026",
-      "id": 585
+      "id": 591
     },
     {
       "competitor": "Property Update",
@@ -10002,7 +10098,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-29",
-      "id": 586
+      "id": 592
     },
     {
       "competitor": "Property Update",
@@ -10019,7 +10115,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-29",
-      "id": 587
+      "id": 593
     },
     {
       "competitor": "Property Update",
@@ -10036,7 +10132,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-28",
-      "id": 588
+      "id": 594
     },
     {
       "competitor": "Property Update",
@@ -10053,7 +10149,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-28",
-      "id": 589
+      "id": 595
     },
     {
       "competitor": "Property Update",
@@ -10070,7 +10166,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-28",
-      "id": 590
+      "id": 596
     },
     {
       "competitor": "Property Update",
@@ -10087,7 +10183,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-27",
-      "id": 591
+      "id": 597
     },
     {
       "competitor": "Property Update",
@@ -10104,7 +10200,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-27",
-      "id": 592
+      "id": 598
     },
     {
       "competitor": "Smart Property Investment",
@@ -10121,7 +10217,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "26 JUN 2026",
-      "id": 593
+      "id": 599
     },
     {
       "competitor": "Your Investment Property",
@@ -10138,7 +10234,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "26 Jun, 2026",
-      "id": 594
+      "id": 600
     },
     {
       "competitor": "Property Update",
@@ -10155,7 +10251,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-26",
-      "id": 595
+      "id": 601
     },
     {
       "competitor": "Property Update",
@@ -10172,7 +10268,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-26",
-      "id": 596
+      "id": 602
     },
     {
       "competitor": "Property Update",
@@ -10189,7 +10285,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-26",
-      "id": 597
+      "id": 603
     },
     {
       "competitor": "Smart Property Investment",
@@ -10206,7 +10302,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "25 JUN 2026",
-      "id": 598
+      "id": 604
     },
     {
       "competitor": "Smart Property Investment",
@@ -10223,7 +10319,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "25 JUN 2026",
-      "id": 599
+      "id": 605
     },
     {
       "competitor": "Smart Property Investment",
@@ -10240,7 +10336,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "25 JUN 2026",
-      "id": 600
+      "id": 606
     },
     {
       "competitor": "Property Update",
@@ -10257,7 +10353,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-25",
-      "id": 601
+      "id": 607
     },
     {
       "competitor": "Property Update",
@@ -10274,7 +10370,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-25",
-      "id": 602
+      "id": 608
     },
     {
       "competitor": "Smart Property Investment",
@@ -10291,7 +10387,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 JUN 2026",
-      "id": 603
+      "id": 609
     },
     {
       "competitor": "Smart Property Investment",
@@ -10308,7 +10404,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 JUN 2026",
-      "id": 604
+      "id": 610
     },
     {
       "competitor": "Smart Property Investment",
@@ -10325,7 +10421,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 JUN 2026",
-      "id": 605
+      "id": 611
     },
     {
       "competitor": "Smart Property Investment",
@@ -10342,7 +10438,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 JUN 2026",
-      "id": 606
+      "id": 612
     },
     {
       "competitor": "Smart Property Investment",
@@ -10359,7 +10455,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 JUN 2026",
-      "id": 607
+      "id": 613
     },
     {
       "competitor": "Smart Property Investment",
@@ -10376,7 +10472,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 JUN 2026",
-      "id": 608
+      "id": 614
     },
     {
       "competitor": "Property Update",
@@ -10393,7 +10489,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-24",
-      "id": 609
+      "id": 615
     },
     {
       "competitor": "Domain",
@@ -10410,7 +10506,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "JUNE 24 2026",
-      "id": 610
+      "id": 616
     },
     {
       "competitor": "realestate.com.au",
@@ -10427,7 +10523,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "24 Jun 2026",
-      "id": 611
+      "id": 617
     },
     {
       "competitor": "Smart Property Investment",
@@ -10444,7 +10540,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 JUN 2026",
-      "id": 612
+      "id": 618
     },
     {
       "competitor": "Smart Property Investment",
@@ -10461,7 +10557,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 JUN 2026",
-      "id": 613
+      "id": 619
     },
     {
       "competitor": "Smart Property Investment",
@@ -10478,7 +10574,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 JUN 2026",
-      "id": 614
+      "id": 620
     },
     {
       "competitor": "Smart Property Investment",
@@ -10495,7 +10591,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 JUN 2026",
-      "id": 615
+      "id": 621
     },
     {
       "competitor": "Smart Property Investment",
@@ -10512,7 +10608,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 JUN 2026",
-      "id": 616
+      "id": 622
     },
     {
       "competitor": "Your Investment Property",
@@ -10529,7 +10625,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 Jun, 2026",
-      "id": 617
+      "id": 623
     },
     {
       "competitor": "Your Investment Property",
@@ -10546,7 +10642,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "23 Jun, 2026",
-      "id": 618
+      "id": 624
     },
     {
       "competitor": "SQM Research",
@@ -10563,7 +10659,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-06-23",
-      "id": 619
+      "id": 625
     },
     {
       "competitor": "Smart Property Investment",
@@ -10580,7 +10676,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 JUN 2026",
-      "id": 620
+      "id": 626
     },
     {
       "competitor": "Smart Property Investment",
@@ -10597,7 +10693,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 JUN 2026",
-      "id": 621
+      "id": 627
     },
     {
       "competitor": "Smart Property Investment",
@@ -10614,7 +10710,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 JUN 2026",
-      "id": 622
+      "id": 628
     },
     {
       "competitor": "Smart Property Investment",
@@ -10631,7 +10727,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "22 JUN 2026",
-      "id": 623
+      "id": 629
     },
     {
       "competitor": "Property Update",
@@ -10648,7 +10744,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-22",
-      "id": 624
+      "id": 630
     },
     {
       "competitor": "Property Update",
@@ -10665,7 +10761,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-22",
-      "id": 625
+      "id": 631
     },
     {
       "competitor": "Smart Property Investment",
@@ -10681,7 +10777,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 626
+      "id": 632
     },
     {
       "competitor": "Property Update",
@@ -10698,7 +10794,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-21",
-      "id": 627
+      "id": 633
     },
     {
       "competitor": "Property Update",
@@ -10715,7 +10811,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-20",
-      "id": 628
+      "id": 634
     },
     {
       "competitor": "Property Update",
@@ -10732,7 +10828,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-19",
-      "id": 629
+      "id": 635
     },
     {
       "competitor": "Property Update",
@@ -10749,7 +10845,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-19",
-      "id": 630
+      "id": 636
     },
     {
       "competitor": "Smart Property Investment",
@@ -10766,7 +10862,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 JUN 2026",
-      "id": 631
+      "id": 637
     },
     {
       "competitor": "Smart Property Investment",
@@ -10783,7 +10879,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 JUN 2026",
-      "id": 632
+      "id": 638
     },
     {
       "competitor": "Smart Property Investment",
@@ -10800,7 +10896,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 JUN 2026",
-      "id": 633
+      "id": 639
     },
     {
       "competitor": "Smart Property Investment",
@@ -10817,7 +10913,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 JUN 2026",
-      "id": 634
+      "id": 640
     },
     {
       "competitor": "Property Update",
@@ -10834,7 +10930,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-18",
-      "id": 635
+      "id": 641
     },
     {
       "competitor": "Property Update",
@@ -10851,7 +10947,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-18",
-      "id": 636
+      "id": 642
     },
     {
       "competitor": "realestate.com.au",
@@ -10868,7 +10964,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "18 Jun 2026",
-      "id": 637
+      "id": 643
     },
     {
       "competitor": "Smart Property Investment",
@@ -10885,7 +10981,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 JUN 2026",
-      "id": 638
+      "id": 644
     },
     {
       "competitor": "Smart Property Investment",
@@ -10902,7 +10998,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 JUN 2026",
-      "id": 639
+      "id": 645
     },
     {
       "competitor": "Smart Property Investment",
@@ -10919,7 +11015,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "17 JUN 2026",
-      "id": 640
+      "id": 646
     },
     {
       "competitor": "Property Update",
@@ -10936,7 +11032,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-17",
-      "id": 641
+      "id": 647
     },
     {
       "competitor": "Property Update",
@@ -10953,7 +11049,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-17",
-      "id": 642
+      "id": 648
     },
     {
       "competitor": "Smart Property Investment",
@@ -10969,7 +11065,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 643
+      "id": 649
     },
     {
       "competitor": "Smart Property Investment",
@@ -10986,7 +11082,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 JUN 2026",
-      "id": 644
+      "id": 650
     },
     {
       "competitor": "Smart Property Investment",
@@ -11003,7 +11099,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 JUN 2026",
-      "id": 645
+      "id": 651
     },
     {
       "competitor": "Smart Property Investment",
@@ -11020,7 +11116,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 JUN 2026",
-      "id": 646
+      "id": 652
     },
     {
       "competitor": "Smart Property Investment",
@@ -11037,7 +11133,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "16 JUN 2026",
-      "id": 647
+      "id": 653
     },
     {
       "competitor": "Property Update",
@@ -11054,7 +11150,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-16",
-      "id": 648
+      "id": 654
     },
     {
       "competitor": "SQM Research",
@@ -11071,7 +11167,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-06-16",
-      "id": 649
+      "id": 655
     },
     {
       "competitor": "Smart Property Investment",
@@ -11087,7 +11183,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 650
+      "id": 656
     },
     {
       "competitor": "Smart Property Investment",
@@ -11104,7 +11200,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 JUN 2026",
-      "id": 651
+      "id": 657
     },
     {
       "competitor": "Smart Property Investment",
@@ -11121,7 +11217,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 JUN 2026",
-      "id": 652
+      "id": 658
     },
     {
       "competitor": "Smart Property Investment",
@@ -11138,7 +11234,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 JUN 2026",
-      "id": 653
+      "id": 659
     },
     {
       "competitor": "Smart Property Investment",
@@ -11155,7 +11251,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 JUN 2026",
-      "id": 654
+      "id": 660
     },
     {
       "competitor": "Your Investment Property",
@@ -11172,7 +11268,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 Jun, 2026",
-      "id": 655
+      "id": 661
     },
     {
       "competitor": "Your Investment Property",
@@ -11189,7 +11285,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 Jun, 2026",
-      "id": 656
+      "id": 662
     },
     {
       "competitor": "Property Update",
@@ -11206,7 +11302,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-15",
-      "id": 657
+      "id": 663
     },
     {
       "competitor": "SQM Research",
@@ -11223,7 +11319,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-15",
-      "id": 658
+      "id": 664
     },
     {
       "competitor": "realestate.com.au",
@@ -11240,7 +11336,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "15 Jun 2026",
-      "id": 659
+      "id": 665
     },
     {
       "competitor": "Property Update",
@@ -11257,7 +11353,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-14",
-      "id": 660
+      "id": 666
     },
     {
       "competitor": "Property Update",
@@ -11274,7 +11370,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-14",
-      "id": 661
+      "id": 667
     },
     {
       "competitor": "Property Update",
@@ -11291,7 +11387,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-14",
-      "id": 662
+      "id": 668
     },
     {
       "competitor": "Property Update",
@@ -11308,7 +11404,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-14",
-      "id": 663
+      "id": 669
     },
     {
       "competitor": "Property Update",
@@ -11325,7 +11421,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-13",
-      "id": 664
+      "id": 670
     },
     {
       "competitor": "Property Update",
@@ -11342,7 +11438,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-13",
-      "id": 665
+      "id": 671
     },
     {
       "competitor": "Smart Property Investment",
@@ -11359,7 +11455,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "12 JUN 2026",
-      "id": 666
+      "id": 672
     },
     {
       "competitor": "Property Update",
@@ -11376,7 +11472,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-12",
-      "id": 667
+      "id": 673
     },
     {
       "competitor": "Property Update",
@@ -11393,7 +11489,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-12",
-      "id": 668
+      "id": 674
     },
     {
       "competitor": "Property Update",
@@ -11410,7 +11506,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-12",
-      "id": 669
+      "id": 675
     },
     {
       "competitor": "Property Update",
@@ -11427,7 +11523,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-12",
-      "id": 670
+      "id": 676
     },
     {
       "competitor": "realestate.com.au",
@@ -11444,7 +11540,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "12 Jun 2026",
-      "id": 671
+      "id": 677
     },
     {
       "competitor": "Smart Property Investment",
@@ -11461,7 +11557,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 JUN 2026",
-      "id": 672
+      "id": 678
     },
     {
       "competitor": "Smart Property Investment",
@@ -11478,7 +11574,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 JUN 2026",
-      "id": 673
+      "id": 679
     },
     {
       "competitor": "Smart Property Investment",
@@ -11495,7 +11591,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 JUN 2026",
-      "id": 674
+      "id": 680
     },
     {
       "competitor": "Smart Property Investment",
@@ -11512,7 +11608,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 JUN 2026",
-      "id": 675
+      "id": 681
     },
     {
       "competitor": "Your Investment Property",
@@ -11529,7 +11625,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "11 Jun, 2026",
-      "id": 676
+      "id": 682
     },
     {
       "competitor": "Property Update",
@@ -11546,7 +11642,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-11",
-      "id": 677
+      "id": 683
     },
     {
       "competitor": "Property Update",
@@ -11563,7 +11659,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-11",
-      "id": 678
+      "id": 684
     },
     {
       "competitor": "Smart Property Investment",
@@ -11579,7 +11675,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 679
+      "id": 685
     },
     {
       "competitor": "Smart Property Investment",
@@ -11596,7 +11692,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 JUN 2026",
-      "id": 680
+      "id": 686
     },
     {
       "competitor": "Smart Property Investment",
@@ -11613,7 +11709,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 JUN 2026",
-      "id": 681
+      "id": 687
     },
     {
       "competitor": "Smart Property Investment",
@@ -11630,7 +11726,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 JUN 2026",
-      "id": 682
+      "id": 688
     },
     {
       "competitor": "Property Update",
@@ -11647,7 +11743,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-10",
-      "id": 683
+      "id": 689
     },
     {
       "competitor": "realestate.com.au",
@@ -11664,7 +11760,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "10 Jun 2026",
-      "id": 684
+      "id": 690
     },
     {
       "competitor": "SQM Research",
@@ -11681,7 +11777,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-06-10",
-      "id": 685
+      "id": 691
     },
     {
       "competitor": "Smart Property Investment",
@@ -11698,7 +11794,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 JUN 2026",
-      "id": 686
+      "id": 692
     },
     {
       "competitor": "Smart Property Investment",
@@ -11715,7 +11811,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 JUN 2026",
-      "id": 687
+      "id": 693
     },
     {
       "competitor": "Smart Property Investment",
@@ -11732,7 +11828,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "09 JUN 2026",
-      "id": 688
+      "id": 694
     },
     {
       "competitor": "Property Update",
@@ -11749,7 +11845,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-09",
-      "id": 689
+      "id": 695
     },
     {
       "competitor": "Smart Property Investment",
@@ -11766,7 +11862,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 JUN 2026",
-      "id": 690
+      "id": 696
     },
     {
       "competitor": "Smart Property Investment",
@@ -11783,7 +11879,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 JUN 2026",
-      "id": 691
+      "id": 697
     },
     {
       "competitor": "Smart Property Investment",
@@ -11800,7 +11896,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 JUN 2026",
-      "id": 692
+      "id": 698
     },
     {
       "competitor": "Smart Property Investment",
@@ -11817,7 +11913,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 JUN 2026",
-      "id": 693
+      "id": 699
     },
     {
       "competitor": "Your Investment Property",
@@ -11834,7 +11930,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "08 Jun, 2026",
-      "id": 694
+      "id": 700
     },
     {
       "competitor": "Property Update",
@@ -11851,7 +11947,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-06",
-      "id": 695
+      "id": 701
     },
     {
       "competitor": "Property Update",
@@ -11868,7 +11964,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-05",
-      "id": 696
+      "id": 702
     },
     {
       "competitor": "Smart Property Investment",
@@ -11885,7 +11981,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "04 JUN 2026",
-      "id": 697
+      "id": 703
     },
     {
       "competitor": "Smart Property Investment",
@@ -11902,7 +11998,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "04 JUN 2026",
-      "id": 698
+      "id": 704
     },
     {
       "competitor": "Smart Property Investment",
@@ -11919,7 +12015,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "04 JUN 2026",
-      "id": 699
+      "id": 705
     },
     {
       "competitor": "Property Update",
@@ -11936,7 +12032,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-04",
-      "id": 700
+      "id": 706
     },
     {
       "competitor": "Smart Property Investment",
@@ -11952,7 +12048,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 701
+      "id": 707
     },
     {
       "competitor": "Smart Property Investment",
@@ -11969,7 +12065,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 JUN 2026",
-      "id": 702
+      "id": 708
     },
     {
       "competitor": "Smart Property Investment",
@@ -11986,7 +12082,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 JUN 2026",
-      "id": 703
+      "id": 709
     },
     {
       "competitor": "Smart Property Investment",
@@ -12003,7 +12099,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "03 JUN 2026",
-      "id": 704
+      "id": 710
     },
     {
       "competitor": "Smart Property Investment",
@@ -12020,7 +12116,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 JUN 2026",
-      "id": 705
+      "id": 711
     },
     {
       "competitor": "Smart Property Investment",
@@ -12037,7 +12133,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "02 JUN 2026",
-      "id": 706
+      "id": 712
     },
     {
       "competitor": "Property Update",
@@ -12054,7 +12150,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-02",
-      "id": 707
+      "id": 713
     },
     {
       "competitor": "Property Update",
@@ -12071,7 +12167,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-02",
-      "id": 708
+      "id": 714
     },
     {
       "competitor": "SQM Research",
@@ -12088,7 +12184,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-02",
-      "id": 709
+      "id": 715
     },
     {
       "competitor": "SQM Research",
@@ -12105,7 +12201,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-06-02",
-      "id": 710
+      "id": 716
     },
     {
       "competitor": "Smart Property Investment",
@@ -12122,7 +12218,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 JUN 2026",
-      "id": 711
+      "id": 717
     },
     {
       "competitor": "Property Update",
@@ -12139,7 +12235,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-01",
-      "id": 712
+      "id": 718
     },
     {
       "competitor": "Property Update",
@@ -12156,7 +12252,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-01",
-      "id": 713
+      "id": 719
     },
     {
       "competitor": "Property Update",
@@ -12173,7 +12269,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-06-01",
-      "id": 714
+      "id": 720
     },
     {
       "competitor": "realestate.com.au",
@@ -12190,7 +12286,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "1 Jun 2026",
-      "id": 715
+      "id": 721
     },
     {
       "competitor": "Smart Property Investment",
@@ -12207,7 +12303,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 JUN 2026",
-      "id": 716
+      "id": 722
     },
     {
       "competitor": "Smart Property Investment",
@@ -12224,7 +12320,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 JUN 2026",
-      "id": 717
+      "id": 723
     },
     {
       "competitor": "Smart Property Investment",
@@ -12241,7 +12337,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "01 JUN 2026",
-      "id": 718
+      "id": 724
     },
     {
       "competitor": "SQM Research",
@@ -12258,10 +12354,10 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-07-14",
-      "id": 719
+      "id": 725
     },
     {
-      "id": 720,
+      "id": 726,
       "competitor": "Smart Property Investment",
       "type": "Article",
       "title": "Perth investor refinancing case study",
@@ -12277,7 +12373,7 @@
       "category": ""
     },
     {
-      "id": 721,
+      "id": 727,
       "competitor": "Your Investment Property",
       "type": "Mention",
       "title": "Contributor promotes October magazine feature",
@@ -12293,7 +12389,7 @@
       "category": ""
     },
     {
-      "id": 722,
+      "id": 728,
       "competitor": "Your Investment Property",
       "type": "Mention",
       "title": "Suburb data cited by a finance business",
@@ -12309,7 +12405,7 @@
       "category": ""
     },
     {
-      "id": 723,
+      "id": 729,
       "competitor": "Smart Property Investment",
       "type": "Social",
       "title": "LinkedIn distributes ATO land-banking coverage",
@@ -12325,7 +12421,7 @@
       "category": ""
     },
     {
-      "id": 724,
+      "id": 730,
       "competitor": "Property Update",
       "type": "Social",
       "title": "Podcast discussion repurposed for Facebook",
@@ -12341,7 +12437,7 @@
       "category": ""
     },
     {
-      "id": 725,
+      "id": 731,
       "competitor": "SQM Research",
       "type": "Social",
       "title": "Weekly newsletter promoted on LinkedIn",
@@ -12357,7 +12453,7 @@
       "category": ""
     },
     {
-      "id": 726,
+      "id": 732,
       "competitor": "API Magazine",
       "type": "Opportunity",
       "title": "Launch a recurring market briefing",
@@ -12373,7 +12469,7 @@
       "category": "Editorial recommendation"
     },
     {
-      "id": 727,
+      "id": 733,
       "competitor": "API Magazine",
       "type": "Opportunity",
       "title": "Build decision-focused comparison guides",
@@ -12389,7 +12485,7 @@
       "category": "Editorial recommendation"
     },
     {
-      "id": 728,
+      "id": 734,
       "competitor": "API Magazine",
       "type": "Opportunity",
       "title": "Make suburb research easy to cite",
@@ -12405,7 +12501,7 @@
       "category": "Editorial recommendation"
     },
     {
-      "id": 729,
+      "id": 735,
       "competitor": "API Magazine",
       "type": "Opportunity",
       "title": "Repurpose expert interviews across channels",
@@ -12434,7 +12530,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 730
+      "id": 736
     },
     {
       "competitor": "Your Investment Property",
@@ -12450,7 +12546,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 731
+      "id": 737
     },
     {
       "competitor": "SQM Research",
@@ -12466,7 +12562,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 732
+      "id": 738
     },
     {
       "competitor": "Domain",
@@ -12482,7 +12578,7 @@
       "opportunity": "",
       "category": "",
       "checked": "2026-10-26",
-      "id": 733
+      "id": 739
     },
     {
       "competitor": "Smart Property Investment",
@@ -12499,7 +12595,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-25",
-      "id": 734
+      "id": 740
     },
     {
       "competitor": "Smart Property Investment",
@@ -12516,7 +12612,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "indexDate": "2026-10-20",
-      "id": 735
+      "id": 741
     },
     {
       "competitor": "Smart Property Investment",
@@ -12533,7 +12629,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-24",
-      "id": 736
+      "id": 742
     },
     {
       "competitor": "Smart Property Investment",
@@ -12550,7 +12646,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "indexDate": "2026-10-20",
-      "id": 737
+      "id": 743
     },
     {
       "competitor": "Smart Property Investment",
@@ -12567,7 +12663,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "indexDate": "2026-10-21",
-      "id": 738
+      "id": 744
     },
     {
       "competitor": "Smart Property Investment",
@@ -12584,7 +12680,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "indexDate": "2026-10-21",
-      "id": 739
+      "id": 745
     },
     {
       "competitor": "Smart Property Investment",
@@ -12601,7 +12697,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "indexDate": "2026-10-19",
-      "id": 740
+      "id": 746
     },
     {
       "competitor": "Smart Property Investment",
@@ -12618,7 +12714,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "indexDate": "2026-10-19",
-      "id": 741
+      "id": 747
     },
     {
       "competitor": "Smart Property Investment",
@@ -12635,7 +12731,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "indexDate": "2026-10-21",
-      "id": 742
+      "id": 748
     },
     {
       "competitor": "Smart Property Investment",
@@ -12652,7 +12748,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "indexDate": "2026-10-20",
-      "id": 743
+      "id": 749
     },
     {
       "competitor": "Smart Property Investment",
@@ -12669,7 +12765,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "indexDate": "2026-10-19",
-      "id": 744
+      "id": 750
     },
     {
       "competitor": "Smart Property Investment",
@@ -12684,9 +12780,9 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-28",
+      "checked": "2026-10-29",
       "indexDate": "2026-10-25",
-      "id": 745
+      "id": 751
     },
     {
       "competitor": "Smart Property Investment",
@@ -12703,7 +12799,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "indexDate": "2026-10-20",
-      "id": 746
+      "id": 752
     },
     {
       "competitor": "Smart Property Investment",
@@ -12720,7 +12816,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-25",
-      "id": 747
+      "id": 753
     },
     {
       "competitor": "Smart Property Investment",
@@ -12737,7 +12833,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-25",
-      "id": 748
+      "id": 754
     },
     {
       "competitor": "Smart Property Investment",
@@ -12754,7 +12850,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-25",
-      "id": 749
+      "id": 755
     },
     {
       "competitor": "Smart Property Investment",
@@ -12771,7 +12867,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "indexDate": "2026-10-25",
-      "id": 750
+      "id": 756
     },
     {
       "competitor": "Smart Property Investment",
@@ -12788,7 +12884,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-26",
-      "id": 751
+      "id": 757
     },
     {
       "competitor": "Smart Property Investment",
@@ -12805,7 +12901,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
       "indexDate": "2026-10-20",
-      "id": 752
+      "id": 758
     },
     {
       "competitor": "Smart Property Investment",
@@ -12822,7 +12918,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-26",
-      "id": 753
+      "id": 759
     },
     {
       "competitor": "Smart Property Investment",
@@ -12839,7 +12935,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-26",
-      "id": 754
+      "id": 760
     },
     {
       "competitor": "Smart Property Investment",
@@ -12856,7 +12952,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-26",
-      "id": 755
+      "id": 761
     },
     {
       "competitor": "Your Investment Property",
@@ -12873,7 +12969,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-27",
-      "id": 756
+      "id": 762
     },
     {
       "competitor": "Smart Property Investment",
@@ -12890,7 +12986,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-25",
-      "id": 757
+      "id": 763
     },
     {
       "competitor": "Smart Property Investment",
@@ -12907,7 +13003,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-27",
-      "id": 758
+      "id": 764
     },
     {
       "competitor": "Smart Property Investment",
@@ -12924,7 +13020,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "indexDate": "2026-10-26",
-      "id": 759
+      "id": 765
     },
     {
       "competitor": "Smart Property Investment",
@@ -12941,7 +13037,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-27",
-      "id": 760
+      "id": 766
     },
     {
       "competitor": "Smart Property Investment",
@@ -12958,7 +13054,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-27",
-      "id": 761
+      "id": 767
     },
     {
       "competitor": "Smart Property Investment",
@@ -12975,7 +13071,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-27",
-      "id": 762
+      "id": 768
     },
     {
       "competitor": "Smart Property Investment",
@@ -12992,7 +13088,109 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "indexDate": "2026-10-27",
-      "id": 763
+      "id": 769
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "‘Pretty high risk’: Why one investor says to think twice before switching to commercial - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcnRXamdvUEVTRlNOX1lVRUJWQ3FJY056Qmp3UmVUeDQ3Skx2Y2FoUTFDM3hJWV9OMDR0SThhMEw4RGtLYmRRWC0zeFNYNXA5SmtuSmJidnpRdDVhNThOR0xXYm1nNHBIRTNndVFCV1F0UlBLcWlPUXUyY2oxUjRNQUxraXJsRWk0c0lCSnRnTUdfMzhwakZoQTBXOWVQdGpERE5hbW4zNnpqWkRtYlBvWWhtQk1pRlBoNVdFOFRrNFlLNV84MWF5cXg3Si0ybEctZXdqUzR5RlpjLU1QRldLbVZQR2tPdw?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "indexDate": "2026-10-28",
+      "id": 770
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "Opportunity hidden within assets ‘demonised’ by investors - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMG1BT1dBRVpBWnBrRTA3UktYQW9xa1E1aXdvOGlhaFhPdVVQeEU3Q1lwQWF0VXJjbmZuOE9OVHV1d2l1WFRWQzZTbkdWRFlkRGZCTEFkSDlZcy1aTi13VlRUMm9Jc25hcWpTMWNpM00xcE8zN2RKQ3dOVGthbEh6QjlFc0RYM3R6ZXZVOG9ya0E2VmFvV3c0YkQ5NjJBd1J4V1RrSTY5czdkZ1pqTVZ0eHhYRHRVS2tCREt3Uk9Naw?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "indexDate": "2026-10-28",
+      "id": 771
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "Fifth rate hike draws nearer as inflation jumps - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNTy1HbUtESEo2b29tYURQUU5VQW9Nemk1NFJWSDIzcWpwMDFuSnY5cXZIbFRUOXBUVVlVQmJ3cE1BSHZqOHRNV29xWTJVMDRKRl9fRWJaMEJLa3ktbVlWbDZsd2pCOGF5YmVJZjNyR3B3ZkhmSm81UFplZWhyZUlxamZnOTY0YU1hNW1QZlBLU3NaZmRzdVFhbFdFWlpoWHpKb3Jnd0JsUGZBQnNoQ2lPRnMzZjVHczIzUnlyR2stelRLa0VTSFNQaFE0NjFXMHdVdlhzd0F6V1g5M0FQc293UTh6UVZZNFJ4LWN1eGoxRmNoUU5QLWp4a042MDBtRmpTVHpXcU84NjhUbWVCcXhaNFB4SU1TVndqT3c3Y3NjVzVUSndlN01YYVNuSWo2c1V5MTM2RElEMXRuemsteXU5TEY5TXplem9MSEp0WjY3TThYOTQ4WUxRbWtiVENQY1czeVV4Y09CaS0wMUdjTmdNc0J5SnlNc3p0SFpLeWRSRG9jOGxMWkVpemtaUkZLNXdSbUktZ1lwU2xMR25XMXBYMHB6U2pCNjYxNWNDOWdmV1FDbzJ5OGhzbDY0MzQtc1c2Q3dwZjI1SUctMHU1MExxSDZvUUxkMTI4bXFJTmR6TEZtZzU2?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "indexDate": "2026-10-27",
+      "id": 772
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "Laugh at France’s economy all you like. The bill is coming here too - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUI0X3JJMU54ZFI0Z0pvS0RfTlpSRjdYNC04ZFZQZUtybFNtYjloRkUyWnM0ZWJmU2RiQjV3YjhzWUVLMWc4RFlqZ0N5U1MwRUtGQXREUW1FOHF6Z0hqOEE3Vmo2TVBTaGdhb2l3QWFrT3VmRlRHdjBOOEg2RVI2cmVEUTJodDlwUnVRZDI2djRCMHBiR282UWdZV1RNS05HVDU2b0dCQUNhdHFZSGJsMXg5bmd1VVFlZGkyd0xpSQ?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "indexDate": "2026-10-28",
+      "id": 773
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "Shoddy renovation leaves home unliveable and ‘fake builder’ with $80k fine - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxNQjVmQ2V6b1c3b1ZWLUw1ZlE1Y1ZZdHFMZkVuVzV2N01pOElBNGFQcEJYTHpEdXVjTFlTdnFtNGw3TndmcFp3bG5fSWc2RmI4QmpRcFBYcmV0SE1sZk9NZDVZdkUxV2htdkNkNE9DZ295VUM0S043UzhRN0ZtMGp3eWhQX0FqWlRkTDdfLWxqMEd5TnJndkxFQmpzN3N6YUdSdGhwRlR2T3Z6bnNTa0lXZkpXRzgzeXhTcEpLU1lSamhMZW1hWWZXT3E5NFJWdmYxeFczRUJHMVc2YUQ4UUUzZXB5eXZNY3hJVFY3WC1qdjVJS2pHM0Q3REl5UlhZR3lPMVFUNHRmODRtU0x2emFwY0hfWmZPcVZnb2NPRWs1UjVncW1PZVdtVlJ1NUtxcFRxSnd1RF9ZOHExX2c0WWtubERqYXFFRUNfTHprSXJwaWxDamdGQnVaOE9ZSXFjNWZrbEt1UFJrQWJKOWRwZmppNXdQR3p0cFpJNkwyY2JZQjRBVDFVV0RXZGZZQ0JsdjZCUlJEdXcxc2tmOVB2TTlXVWxqU1RkZDVYRm9KbEtMX3UxZm1kcGdUN1FEakFBaHhfWGR6alZ5WWFwcGY4ZVZBdGo0aDIweUhqXzhFWjNXYXlhQUpuVEZuQzNLYmozcTQ2NEFwQmhaNVlSYkYyTDlVSGlDVjNvOWFzZjF3SVdfX0c?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "indexDate": "2026-10-26",
+      "id": 774
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "‘Significant damage’: NSW landlords warned of increased scrutiny in watchdog crackdown - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUFlIbHd6aWhtaDlweERXaXFEYnZPclZoUzBJWWxDX0NhU0YxdEl1ZktTbjVHSUpyMXdZT081SWFtcVRNQ3Rmd3J6d0xSY2dSWmtybHBqOEdIcHBObWUzSjNkU28yb3pPS1Z0YmxjSUZOQXhIaFk2ZnlRMnZtb1dpaEpDaldFczRFZUp1akpDLXlEOTNzR3RlOXVybTNEYnZFQVFEWjZKeWUzN0VzeDFZSUk2blhrNndzcXFtZGZKMkhyYjA3OXYwaXZtM3Y5WFpMZ2ItSjN3Y05wUnRMdXk4?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-29",
+      "indexDate": "2026-10-28",
+      "id": 775
     }
   ],
   "crawlLog": [
@@ -13486,15 +13684,15 @@
     }
   ],
   "lastRefresh": {
-    "attemptedAt": "2026-10-29T04:29:07+08:00",
+    "attemptedAt": "2026-10-29T20:27:55+08:00",
     "status": "partial",
-    "added": 8,
+    "added": 12,
     "sources": [
       {
         "source": "Smart Property Investment",
         "status": "ok",
         "observed": 30,
-        "added": 4
+        "added": 3
       },
       {
         "source": "Your Investment Property",
@@ -13506,7 +13704,7 @@
         "source": "Property Update",
         "status": "ok",
         "observed": 80,
-        "added": 0
+        "added": 3
       },
       {
         "source": "Domain",
@@ -13529,12 +13727,12 @@
       {
         "source": "Public news discovery",
         "status": "ok",
-        "observed": 16,
-        "added": 4
+        "observed": 21,
+        "added": 6
       }
     ],
     "schedule": "Daily 04:00 Asia/Manila",
     "provider": "GitHub Actions"
   },
-  "lastSuccessfulRefresh": "2026-10-29T04:29:07+08:00"
+  "lastSuccessfulRefresh": "2026-10-29T20:27:55+08:00"
 }
