@@ -1,6 +1,6 @@
 {
   "coverageStart": "2026-06-01",
-  "coverageEnd": "2026-10-30",
+  "coverageEnd": "2026-10-31",
   "collectedAt": "2026-10-26",
   "coverage": [
     {
@@ -100,7 +100,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 2
     },
     {
@@ -116,7 +116,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 3
     },
     {
@@ -132,7 +132,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 4
     },
     {
@@ -148,7 +148,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 5
     },
     {
@@ -164,7 +164,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 6
     },
     {
@@ -180,7 +180,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 7
     },
     {
@@ -196,7 +196,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 8
     },
     {
@@ -212,7 +212,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 9
     },
     {
@@ -228,7 +228,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 10
     },
     {
@@ -260,7 +260,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 12
     },
     {
@@ -276,7 +276,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 13
     },
     {
@@ -292,7 +292,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 14
     },
     {
@@ -308,7 +308,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 15
     },
     {
@@ -324,7 +324,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 16
     },
     {
@@ -340,7 +340,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-29",
       "id": 17
     },
@@ -373,7 +373,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 19
     },
     {
@@ -389,7 +389,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 20
     },
     {
@@ -405,7 +405,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 21
     },
     {
@@ -421,7 +421,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 22
     },
     {
@@ -437,7 +437,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 23
     },
     {
@@ -453,7 +453,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 24
     },
     {
@@ -469,7 +469,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 25
     },
     {
@@ -485,7 +485,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-26",
       "id": 26
     },
@@ -502,7 +502,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-26",
       "id": 27
     },
@@ -519,7 +519,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-26",
       "id": 28
     },
@@ -536,7 +536,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-26",
       "id": 29
     },
@@ -587,7 +587,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 32
     },
     {
@@ -603,7 +603,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 33
     },
     {
@@ -619,7 +619,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "id": 34
     },
     {
@@ -635,7 +635,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-19",
       "id": 35
     },
@@ -768,7 +768,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-24",
       "id": 43
     },
@@ -785,7 +785,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-24",
       "id": 44
     },
@@ -802,7 +802,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-24",
       "id": 45
     },
@@ -836,7 +836,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Source reviewed",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "22 OCT 2026",
       "id": 47
     },
@@ -853,7 +853,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "22 OCT 2026",
       "id": 48
     },
@@ -870,7 +870,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "22 OCT 2026",
       "id": 49
     },
@@ -887,7 +887,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-22",
       "id": 50
     },
@@ -904,7 +904,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-22",
       "id": 51
     },
@@ -954,7 +954,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "21 OCT 2026",
       "id": 54
     },
@@ -971,7 +971,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "21 OCT 2026",
       "id": 55
     },
@@ -988,7 +988,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "21 OCT 2026",
       "id": 56
     },
@@ -1055,7 +1055,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "20 OCT 2026",
       "id": 60
     },
@@ -1072,7 +1072,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "20 OCT 2026",
       "id": 61
     },
@@ -1089,7 +1089,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-20",
       "id": 62
     },
@@ -1123,7 +1123,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-20",
       "id": 64
     },
@@ -1140,7 +1140,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "19 OCT 2026",
       "id": 65
     },
@@ -1157,7 +1157,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "19 OCT 2026",
       "id": 66
     },
@@ -1174,7 +1174,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "19 OCT 2026",
       "id": 67
     },
@@ -1191,7 +1191,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-18",
       "id": 68
     },
@@ -1259,7 +1259,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-16",
       "id": 72
     },
@@ -1293,7 +1293,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "15 OCT 2026",
       "id": 74
     },
@@ -1310,7 +1310,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "15 OCT 2026",
       "id": 75
     },
@@ -1327,7 +1327,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "15 OCT 2026",
       "id": 76
     },
@@ -1378,7 +1378,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "14 OCT 2026",
       "id": 79
     },
@@ -1395,7 +1395,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "14 OCT 2026",
       "id": 80
     },
@@ -1497,7 +1497,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-13",
       "id": 86
     },
@@ -1768,7 +1768,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-09",
       "id": 102
     },
@@ -1819,7 +1819,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-09",
       "id": 105
     },
@@ -1921,7 +1921,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-08",
       "id": 111
     },
@@ -2023,7 +2023,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-07",
       "id": 117
     },
@@ -2040,7 +2040,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-07",
       "id": 118
     },
@@ -2057,7 +2057,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-07",
       "id": 119
     },
@@ -2210,7 +2210,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-05",
       "id": 128
     },
@@ -2227,7 +2227,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-05",
       "id": 129
     },
@@ -2244,7 +2244,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-05",
       "id": 130
     },
@@ -2261,7 +2261,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-04",
       "id": 131
     },
@@ -2278,7 +2278,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-04",
       "id": 132
     },
@@ -2312,7 +2312,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-03",
       "id": 134
     },
@@ -2397,7 +2397,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-02",
       "id": 139
     },
@@ -2414,7 +2414,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-02",
       "id": 140
     },
@@ -2431,7 +2431,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-02",
       "id": 141
     },
@@ -2549,7 +2549,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-01",
       "id": 148
     },
@@ -2566,7 +2566,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-01",
       "id": 149
     },
@@ -2583,7 +2583,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-01",
       "id": 150
     },
@@ -2600,7 +2600,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-10-01",
       "id": 151
     },
@@ -2736,7 +2736,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-30",
       "id": 159
     },
@@ -2872,7 +2872,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-29",
       "id": 167
     },
@@ -2923,7 +2923,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-29",
       "id": 170
     },
@@ -3041,7 +3041,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-28",
       "id": 177
     },
@@ -3126,7 +3126,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-26",
       "id": 182
     },
@@ -3296,7 +3296,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-24",
       "id": 192
     },
@@ -3534,7 +3534,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-22",
       "id": 206
     },
@@ -3636,7 +3636,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-21",
       "id": 212
     },
@@ -3721,7 +3721,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-29",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-19",
       "id": 217
     },
@@ -4180,7 +4180,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-15",
       "id": 244
     },
@@ -4265,7 +4265,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-14",
       "id": 249
     },
@@ -4400,7 +4400,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-11",
       "id": 257
     },
@@ -4706,7 +4706,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-08",
       "id": 275
     },
@@ -4723,7 +4723,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-08",
       "id": 276
     },
@@ -4808,7 +4808,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-07",
       "id": 281
     },
@@ -4859,7 +4859,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-06",
       "id": 284
     },
@@ -4944,7 +4944,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-04",
       "id": 289
     },
@@ -5301,7 +5301,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-09-01",
       "id": 310
     },
@@ -5386,7 +5386,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-31",
       "id": 315
     },
@@ -5420,7 +5420,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-30",
       "id": 317
     },
@@ -5437,7 +5437,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-30",
       "id": 318
     },
@@ -5760,7 +5760,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-25",
       "id": 337
     },
@@ -6321,7 +6321,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-18",
       "id": 370
     },
@@ -6473,7 +6473,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-15",
       "id": 379
     },
@@ -6507,7 +6507,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-14",
       "id": 381
     },
@@ -6829,7 +6829,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-11",
       "id": 400
     },
@@ -6897,7 +6897,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-10",
       "id": 404
     },
@@ -7322,7 +7322,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-08-04",
       "id": 429
     },
@@ -7934,7 +7934,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-07-28",
       "id": 465
     },
@@ -8410,7 +8410,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-07-21",
       "id": 493
     },
@@ -8835,7 +8835,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-07-14",
       "id": 518
     },
@@ -9345,7 +9345,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-07-07",
       "id": 548
     },
@@ -10093,7 +10093,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-06-30",
       "id": 592
     },
@@ -10705,7 +10705,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-06-23",
       "id": 628
     },
@@ -11213,7 +11213,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-06-16",
       "id": 658
     },
@@ -11823,7 +11823,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-06-10",
       "id": 694
     },
@@ -12247,7 +12247,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "originalDateText": "2026-06-02",
       "id": 719
     },
@@ -12675,7 +12675,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-24",
       "id": 745
     },
@@ -12828,7 +12828,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-25",
       "id": 754
     },
@@ -12862,7 +12862,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-25",
       "id": 756
     },
@@ -12879,7 +12879,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-25",
       "id": 757
     },
@@ -12896,7 +12896,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-25",
       "id": 758
     },
@@ -12930,7 +12930,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-26",
       "id": 760
     },
@@ -12964,7 +12964,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-26",
       "id": 762
     },
@@ -12981,7 +12981,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-26",
       "id": 763
     },
@@ -13015,7 +13015,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-27",
       "id": 765
     },
@@ -13083,7 +13083,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-27",
       "id": 769
     },
@@ -13100,7 +13100,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-27",
       "id": 770
     },
@@ -13151,7 +13151,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-28",
       "id": 773
     },
@@ -13185,7 +13185,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-27",
       "id": 775
     },
@@ -13202,7 +13202,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-28",
       "id": 776
     },
@@ -13219,7 +13219,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-26",
       "id": 777
     },
@@ -13236,7 +13236,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-28",
       "id": 778
     },
@@ -13253,7 +13253,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-27",
       "id": 779
     },
@@ -13270,7 +13270,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-27",
       "id": 780
     },
@@ -13287,9 +13287,43 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "indexDate": "2026-10-30",
       "id": 781
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "PROPERTY INVESTING INSIGHTS WITH RIGHT PROPERTY GROUP: Blue chip, bargain, or money pit? What makes a good investment today - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNOGRMVzVOOFZBVTFRRDJERk4tYUhHSHA1RXlacTgwbkY5bGdUYlluN0dfckNMYjFOR0N3VmowY2pMdWdSN1EzbmtCZWR4V0tFTXVHME5kNVdydVhRVm1PZmNMNE5ENGN5ejFSbjBwSExkWEJpU0RLckljU25venFPQzFyclBSMTZuR1V5dmRpeG1PeFBaOFNkTEk5N0prRy1BSHg2NVRNb0Z3RnhyV1dSWmxCT1dUX2p3eDQwRTdMdjMwdTFSRlpIXy0ybFBrbHh0THQta3pZOFBYU05ydWNvY0F2clRoWWZROHlqM2k1ZXpsWTZ3SFJ1TjlVTWxKNHNEY0V0WERCXzdEXzNHNWZaMGo1UDc?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-31",
+      "indexDate": "2026-10-29",
+      "id": 782
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "Opportunity hidden within assets ‘demonised’ by investors - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxNRDAzSzdaTkNzbHJPOG1mRVV6Yk5SaG1DT29VeEd6R09PSS1MN3dNeUdEN1FuaDhnS2otaGE0Zktva293dUJxSGxiZFlJOFJnMHd1M1NibUxoOE1Bbm1jbjNXT1dNa21PaHhTZ3J0U1VEam1remo1WUxRNGlQYXphSlhSazhlOHZuSXZDc1hHMnc0NUJUQzJraVFFWTBqbmY2bm9obEhLWTRzUkRLSGlxN18tMjFLaGx4dE9iUEVYZEJISk1JZC1SbFkyVHRGNE40MG5MVHFqM2F0ZDdLTHhlRHRQejctRVdFazkxSXl4WWVTZ3RaZ1ZmNlI0ZUJaMUxMYzFfS0xfMzZfNnd0TDZ0ZTdIWXVsMFlZdFJhNDdUbGNiNlVrZ2dIN3ZzSVpYSE43UmkxMURFTVY2Ym9LSll4OW1kbkxtMkZWRWZ3OFVEVWkwTkJTakFnMDM1MjJDQW1lMlFqX28waWNWbjNSaW5PdXE0NjN1Q0Nsb3VrR1Y0UFloVEtMeUI4X2IzbktVMDN3ZlBXTzJyTFdHRXhaN1lFNlc2Z25sbVRGZmpUTllXcy1ZNEtBSTliS1hRZ3kwZ1J4U01Qdml2NWNhVEFfVXUzRlItQnVkM3VfRUJUU3E4d0FOR1d4V01ITS1Eem1DN1V6ZmUySFFCby1rSVJp?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-31",
+      "indexDate": "2026-10-28",
+      "id": 783
     }
   ],
   "crawlLog": [
@@ -13783,9 +13817,9 @@
     }
   ],
   "lastRefresh": {
-    "attemptedAt": "2026-10-30T20:27:39+08:00",
+    "attemptedAt": "2026-10-31T04:27:12+08:00",
     "status": "partial",
-    "added": 5,
+    "added": 2,
     "sources": [
       {
         "source": "Smart Property Investment",
@@ -13797,13 +13831,13 @@
         "source": "Your Investment Property",
         "status": "ok",
         "observed": 54,
-        "added": 1
+        "added": 0
       },
       {
         "source": "Property Update",
         "status": "ok",
         "observed": 80,
-        "added": 2
+        "added": 0
       },
       {
         "source": "Domain",
@@ -13833,5 +13867,5 @@
     "schedule": "Daily 04:00 Asia/Manila",
     "provider": "GitHub Actions"
   },
-  "lastSuccessfulRefresh": "2026-10-30T20:27:39+08:00"
+  "lastSuccessfulRefresh": "2026-10-31T04:27:12+08:00"
 }
