@@ -72,6 +72,23 @@
   ],
   "records": [
     {
+      "competitor": "Property Update",
+      "type": "Article",
+      "title": "National Weekly Auction Report – October 31st 2026 | Quiet October Home Auction Market Ends with Signs of Improvement",
+      "date": "2026-10-31",
+      "sourceType": "Owned",
+      "url": "https://propertyupdate.com.au/this-weekends-auction-results-what-happened-in-sydney-melbourne-brisbane-adelaide-canberra/",
+      "category": "Latest, Property Market News",
+      "summary": "",
+      "opportunity": "",
+      "dateBasis": "Publisher archive",
+      "dateStatus": "Verified",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-31",
+      "originalDateText": "2026-10-24",
+      "id": 1
+    },
+    {
       "competitor": "Your Investment Property",
       "type": "Article",
       "title": "Another rate rise may hurt confidence before it hurts property values",
@@ -85,7 +102,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-30",
-      "id": 1
+      "id": 2
     },
     {
       "competitor": "Property Update",
@@ -101,7 +118,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 2
+      "id": 3
     },
     {
       "competitor": "Property Update",
@@ -117,7 +134,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 3
+      "id": 4
     },
     {
       "competitor": "Smart Property Investment",
@@ -133,7 +150,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 4
+      "id": 5
     },
     {
       "competitor": "Smart Property Investment",
@@ -149,7 +166,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 5
+      "id": 6
     },
     {
       "competitor": "Smart Property Investment",
@@ -165,7 +182,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 6
+      "id": 7
     },
     {
       "competitor": "Property Update",
@@ -181,7 +198,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 7
+      "id": 8
     },
     {
       "competitor": "Property Update",
@@ -197,7 +214,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 8
+      "id": 9
     },
     {
       "competitor": "Property Update",
@@ -213,7 +230,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 9
+      "id": 10
     },
     {
       "competitor": "Property Update",
@@ -229,7 +246,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 10
+      "id": 11
     },
     {
       "competitor": "Property Update",
@@ -244,8 +261,8 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-10-30",
-      "id": 11
+      "checked": "2026-10-31",
+      "id": 12
     },
     {
       "competitor": "Property Update",
@@ -261,7 +278,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 12
+      "id": 13
     },
     {
       "competitor": "Smart Property Investment",
@@ -277,7 +294,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 13
+      "id": 14
     },
     {
       "competitor": "Smart Property Investment",
@@ -293,7 +310,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 14
+      "id": 15
     },
     {
       "competitor": "Smart Property Investment",
@@ -309,7 +326,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 15
+      "id": 16
     },
     {
       "competitor": "Smart Property Investment",
@@ -325,7 +342,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 16
+      "id": 17
     },
     {
       "competitor": "Property Update",
@@ -342,7 +359,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
       "originalDateText": "2026-09-29",
-      "id": 17
+      "id": 18
     },
     {
       "competitor": "Your Investment Property",
@@ -358,7 +375,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-27",
-      "id": 18
+      "id": 19
     },
     {
       "competitor": "Property Update",
@@ -374,7 +391,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 19
+      "id": 20
     },
     {
       "competitor": "Property Update",
@@ -390,7 +407,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 20
+      "id": 21
     },
     {
       "competitor": "SQM Research",
@@ -406,7 +423,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 21
+      "id": 22
     },
     {
       "competitor": "Smart Property Investment",
@@ -422,7 +439,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 22
+      "id": 23
     },
     {
       "competitor": "Smart Property Investment",
@@ -438,7 +455,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 23
+      "id": 24
     },
     {
       "competitor": "Smart Property Investment",
@@ -454,7 +471,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 24
+      "id": 25
     },
     {
       "competitor": "Smart Property Investment",
@@ -470,7 +487,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 25
+      "id": 26
     },
     {
       "competitor": "Property Update",
@@ -487,7 +504,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
       "originalDateText": "2026-10-26",
-      "id": 26
+      "id": 27
     },
     {
       "competitor": "Property Update",
@@ -504,7 +521,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
       "originalDateText": "2026-10-26",
-      "id": 27
+      "id": 28
     },
     {
       "competitor": "Property Update",
@@ -521,7 +538,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
       "originalDateText": "2026-10-26",
-      "id": 28
+      "id": 29
     },
     {
       "competitor": "Property Update",
@@ -538,7 +555,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
       "originalDateText": "2026-10-26",
-      "id": 29
+      "id": 30
     },
     {
       "competitor": "Your Investment Property",
@@ -555,7 +572,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "26 Oct, 2026",
-      "id": 30
+      "id": 31
     },
     {
       "competitor": "realestate.com.au",
@@ -572,7 +589,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "26 Oct 2026",
-      "id": 31
+      "id": 32
     },
     {
       "competitor": "Smart Property Investment",
@@ -588,7 +605,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 32
+      "id": 33
     },
     {
       "competitor": "Smart Property Investment",
@@ -604,7 +621,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 33
+      "id": 34
     },
     {
       "competitor": "Smart Property Investment",
@@ -620,7 +637,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
-      "id": 34
+      "id": 35
     },
     {
       "competitor": "Property Update",
@@ -637,7 +654,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-31",
       "originalDateText": "2026-10-19",
-      "id": 35
+      "id": 36
     },
     {
       "competitor": "Property Update",
@@ -653,7 +670,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-30",
-      "id": 36
+      "id": 37
     },
     {
       "competitor": "Property Update",
@@ -669,7 +686,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-30",
-      "id": 37
+      "id": 38
     },
     {
       "competitor": "Property Update",
@@ -685,7 +702,7 @@
       "opportunity": "",
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
-      "id": 38
+      "id": 39
     },
     {
       "competitor": "Property Update",
@@ -702,7 +719,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-25",
-      "id": 39
+      "id": 40
     },
     {
       "competitor": "Property Update",
@@ -719,7 +736,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-29",
       "originalDateText": "2026-10-25",
-      "id": 40
+      "id": 41
     },
     {
       "competitor": "Property Update",
@@ -736,7 +753,7 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-28",
       "originalDateText": "2026-10-25",
-      "id": 41
+      "id": 42
     },
     {
       "competitor": "Property Update",
@@ -753,23 +770,6 @@
       "reviewStatus": "Metadata only",
       "checked": "2026-10-26",
       "originalDateText": "2026-10-25",
-      "id": 42
-    },
-    {
-      "competitor": "Property Update",
-      "type": "Article",
-      "title": "National Weekly Auction Report – October 24th 2026 | More Underwhelming Home Auction Results Over Past Week",
-      "date": "2026-10-24",
-      "sourceType": "Owned",
-      "url": "https://propertyupdate.com.au/this-weekends-auction-results-what-happened-in-sydney-melbourne-brisbane-adelaide-canberra/",
-      "category": "Latest, Property Market News",
-      "summary": "",
-      "opportunity": "",
-      "dateBasis": "Publisher archive",
-      "dateStatus": "Verified",
-      "reviewStatus": "Metadata only",
-      "checked": "2026-10-31",
-      "originalDateText": "2026-10-24",
       "id": 43
     },
     {
@@ -13324,6 +13324,40 @@
       "checked": "2026-10-31",
       "indexDate": "2026-10-28",
       "id": 783
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "Property Buzz: Is Australia heading for a French-style debt crisis? - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPek1YZlFuNmk5V2dHQ254QUhsX0FYUnZuOXdCczM1NTU1azJlYmhXQmZhUTl3VU9UOXBodDhiU3ZLRC1PMTV5QndZMF9KTi14X2pTczR3YzFvV09rS1VqWmxBdnE1dGJlZXFNWV80MDVGTG9WMFRlblN5SXFUX2FPTkdHV0tES0EtYWJFQlduVlFzUkRKbzI4NWtpVmZZRFFNVGhRM0NHZ28zWTZUMVNCT1FyMER6OEZad3VZd05QUEdpU1BJb0tXbjJQRXE?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-31",
+      "indexDate": "2026-10-30",
+      "id": 784
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "‘Pretty high risk’: Why one investor says to think twice before switching to commercial - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxOWldjcTc0dUpXSzRKNEUxbjlObUU2NE9YNmZHLXVLdWlSZWJSMjRaWFdFSmxaYkotNlJFQXFXWk9NR2Npem1yelhtYU50X1RvTEItcGRUM0cxNk51al92bEpqdEZjZ01FM3RqNkxZSDdZNEp0bHlkNzl5bjVTTGFjaFNYOHItQXhKQzFzVUNtS01oQzNuakdCSWhielE3SjNQN1dqNXRrVjY4bEJMVU1aMkJiOVk1azFXUEhxdGlaT2xPcjZIcm1GLTBnZzRTSlN1aGhFMTgyU244NjdPc0NfV2poTEpoeGJHU1NTUDZZMHJXZloxbHRWNmt6ZGkyaWlIX2gwcGs4cHdHZnphdjZsTnl5a0hFMmlvSkdwRUFOcW1QdV94OVpCcDN4Wk5sZlJ6UDFubHMtVFY3WXlEczRTQW5OeFZDaGFqSW5UY0wybnAxODRUTW1FX05YSW5TQktnZTRlUlNKRUd5WTdnbFMxV1NqcDV3dWNjQTFma09hZ1R4ZkZBY3hUdGpwWWJIb3UwYjlLMGg1b1MtOFNBcVRJeVAyUkpiemdWNlRtRmdiaWVUZk1zekQ0amg2UGFqTUkwMjZVbF9iUExXRUpBeS1lVnV6VlZYUjdhRGtMS2E0MTkxYWxzRW1wZ25mUjZJZF9pUURJNTQ3aUxCQ3N2TmlsLU1zM2l3UmVUbDhoV2Y3RVVxeHlNa2FoZVlaclctMVpGZUJR?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-10-31",
+      "indexDate": "2026-10-28",
+      "id": 785
     }
   ],
   "crawlLog": [
@@ -13817,7 +13851,7 @@
     }
   ],
   "lastRefresh": {
-    "attemptedAt": "2026-10-31T04:27:12+08:00",
+    "attemptedAt": "2026-10-31T20:24:40+08:00",
     "status": "partial",
     "added": 2,
     "sources": [
@@ -13860,12 +13894,12 @@
       {
         "source": "Public news discovery",
         "status": "ok",
-        "observed": 21,
+        "observed": 18,
         "added": 2
       }
     ],
     "schedule": "Daily 04:00 Asia/Manila",
     "provider": "GitHub Actions"
   },
-  "lastSuccessfulRefresh": "2026-10-31T04:27:12+08:00"
+  "lastSuccessfulRefresh": "2026-10-31T20:24:40+08:00"
 }
