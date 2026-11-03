@@ -209,8 +209,12 @@ def sqm():
     return observed
 def public_mentions():
     observed = 0
-    for brand in ("Smart Property Investment", "Your Investment Property", "Property Update", "Domain", "realestate.com.au", "SQM Research"):
+    for brand in [c["name"] for c in db["competitors"]]:
         term = brand if brand not in ("Domain", "Property Update") else brand + " property Australia"
+        if brand == "Australian Financial Review":
+            term = "Australian Financial Review property"
+        elif brand == "Green Street News Australia":
+            term = "Green Street"
         query = quote('"' + term + '" when:7d')
         url = "https://news.google.com/rss/search?q=" + query + "&hl=en-AU&gl=AU&ceid=AU:en"
         root = ET.fromstring(fetch(url))

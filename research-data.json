@@ -74,6 +74,78 @@
         "2026-10": 7,
         "2026-11": 0
       }
+    },
+    {
+      "competitor": "Australian Property Update",
+      "dated": 0,
+      "months": {
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0,
+        "2026-10": 0,
+        "2026-11": 0
+      }
+    },
+    {
+      "competitor": "The Urban Developer",
+      "dated": 0,
+      "months": {
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0,
+        "2026-10": 0,
+        "2026-11": 0
+      }
+    },
+    {
+      "competitor": "Australian Property Journal",
+      "dated": 0,
+      "months": {
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0,
+        "2026-10": 0,
+        "2026-11": 0
+      }
+    },
+    {
+      "competitor": "Australian Property Institute",
+      "dated": 0,
+      "months": {
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0,
+        "2026-10": 0,
+        "2026-11": 0
+      }
+    },
+    {
+      "competitor": "Australian Financial Review",
+      "dated": 0,
+      "months": {
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0,
+        "2026-10": 0,
+        "2026-11": 0
+      }
+    },
+    {
+      "competitor": "Green Street News Australia",
+      "dated": 0,
+      "months": {
+        "2026-06": 0,
+        "2026-07": 0,
+        "2026-08": 0,
+        "2026-09": 0,
+        "2026-10": 0,
+        "2026-11": 0
+      }
     }
   ],
   "records": [
@@ -14284,5 +14356,79 @@
     "schedule": "Daily 04:00 Asia/Manila",
     "provider": "GitHub Actions"
   },
-  "lastSuccessfulRefresh": "2026-11-03T04:35:28+08:00"
+  "lastSuccessfulRefresh": "2026-11-03T04:35:28+08:00",
+  "competitors": [
+    {
+      "name": "Smart Property Investment",
+      "classification": "Primary",
+      "url": "https://www.smartpropertyinvestment.com.au/",
+      "notes": "Investor case studies, podcasts, video and portfolio strategy."
+    },
+    {
+      "name": "Your Investment Property",
+      "classification": "Primary",
+      "url": "https://www.yourinvestmentpropertymag.com.au/",
+      "notes": "Investment comparisons, suburb data and expert guidance."
+    },
+    {
+      "name": "Property Update",
+      "classification": "Primary",
+      "url": "https://propertyupdate.com.au/",
+      "notes": "Recurring market features, forecasts and expert commentary."
+    },
+    {
+      "name": "Domain",
+      "classification": "Secondary",
+      "url": "https://www.domain.com.au/news/",
+      "notes": "Property news, housing research and external media coverage."
+    },
+    {
+      "name": "realestate.com.au",
+      "classification": "Secondary",
+      "url": "https://www.realestate.com.au/insights/",
+      "notes": "Housing reports, consumer insights and market data."
+    },
+    {
+      "name": "SQM Research",
+      "classification": "Secondary",
+      "url": "https://sqmresearch.com.au/",
+      "notes": "Vacancy, listings and rental research."
+    },
+    {
+      "name": "Australian Property Update",
+      "classification": "Primary",
+      "url": "https://australianpropertyupdate.com.au/",
+      "notes": "Housing news and investment guidance. Added 3 November 2026; public news discovery enabled. Direct archive collection and historical backfill pending."
+    },
+    {
+      "name": "The Urban Developer",
+      "classification": "Secondary",
+      "url": "https://www.theurbandeveloper.com/",
+      "notes": "Development, commercial property and industry news. Public news discovery enabled; direct archive collection and subscriber-content access not configured."
+    },
+    {
+      "name": "Australian Property Journal",
+      "classification": "Secondary",
+      "url": "https://australianpropertyjournal.com.au/",
+      "notes": "Legacy publication acquired by Green Street in March 2025, with a planned rebrand to Green Street News Australia. Related coverage may overlap; direct access unverified."
+    },
+    {
+      "name": "Australian Property Institute",
+      "classification": "Research source",
+      "url": "https://www.api.org.au/about/media-centre/",
+      "notes": "Industry association, separate from API Magazine. Public media releases and market outlook reports. Public news discovery enabled; direct media-centre collection pending."
+    },
+    {
+      "name": "Australian Financial Review",
+      "classification": "Watchlist",
+      "url": "https://www.afr.com/property",
+      "notes": "Property section. Direct access returned HTTP 403 during assessment; public news discovery only. No subscriber-only article collection."
+    },
+    {
+      "name": "Green Street News Australia",
+      "classification": "Watchlist",
+      "url": "https://greenstreetnews.com/australia/",
+      "notes": "Commercial property intelligence; related to Australian Property Journal following its acquisition. Direct access returned HTTP 403; public news discovery only. Historical coverage pending."
+    }
+  ]
 }
