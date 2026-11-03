@@ -14036,7 +14036,7 @@
     {
       "competitor": "The Urban Developer",
       "type": "Mention",
-      "title": "As Developers Turn Back on Office’s Comeback, Opportunity Rises - The Urban Developer",
+      "title": "Office’s Comeback Stalls, But Smart Money Isn’t Blinking - The Urban Developer",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUnA3Vk9yX1ZPdUxXTkFLUHhsMmdiQTBuN1ZsWjdacjJ4RVA4b2xHY1NDUlZYY2dGYm5WS3JxcnhSei12b1l4RThaYUUxS09QSk9YNFNvbGpDdDZacTZVV1h3Rl8wY2ZyOUhzRzhWcFBXVVBHRkF6SVFXR1Q0QzY5Vk9sS1pxcFJxU2cyMUJ0eFM2MjFmcDBlZHU3cThlQjdZc2dIektlN05YMllaTFJHd3RVMXg1RnQ5cXphT2MzSlFEY1oxYTdod2NHQlIyRlJxaXc?oc=5",
       "date": null,
       "dateStatus": "Unverified",
@@ -15307,9 +15307,9 @@
     }
   ],
   "lastRefresh": {
-    "attemptedAt": "2026-11-03T18:00:22+08:00",
+    "attemptedAt": "2026-11-03T20:43:31+08:00",
     "status": "partial",
-    "added": 59,
+    "added": 0,
     "sources": [
       {
         "source": "Smart Property Investment",
@@ -15327,7 +15327,7 @@
         "source": "Property Update",
         "status": "ok",
         "observed": 80,
-        "added": 1
+        "added": 0
       },
       {
         "source": "Domain",
@@ -15345,19 +15345,19 @@
         "source": "SQM Research",
         "status": "ok",
         "observed": 23,
-        "added": 1
+        "added": 0
       },
       {
         "source": "Public news discovery",
         "status": "ok",
-        "observed": 74,
-        "added": 57
+        "observed": 73,
+        "added": 0
       }
     ],
     "schedule": "Daily 04:00 Asia/Manila",
     "provider": "GitHub Actions"
   },
-  "lastSuccessfulRefresh": "2026-11-03T18:00:22+08:00",
+  "lastSuccessfulRefresh": "2026-11-03T20:43:31+08:00",
   "competitors": [
     {
       "name": "Smart Property Investment",
