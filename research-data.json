@@ -1,6 +1,6 @@
 {
   "coverageStart": "2026-06-01",
-  "coverageEnd": "2026-11-13",
+  "coverageEnd": "2026-11-14",
   "collectedAt": "2026-10-26",
   "coverage": [
     {
@@ -162,7 +162,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-16",
       "id": 1
     },
@@ -179,7 +179,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 2
     },
     {
@@ -195,7 +195,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 3
     },
     {
@@ -211,7 +211,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 4
     },
     {
@@ -227,7 +227,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-18",
       "id": 5
     },
@@ -244,7 +244,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 6
     },
     {
@@ -276,7 +276,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 8
     },
     {
@@ -292,7 +292,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 9
     },
     {
@@ -324,7 +324,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 11
     },
     {
@@ -340,7 +340,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 12
     },
     {
@@ -356,7 +356,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 13
     },
     {
@@ -404,7 +404,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 16
     },
     {
@@ -420,7 +420,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 17
     },
     {
@@ -436,7 +436,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 18
     },
     {
@@ -452,7 +452,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 19
     },
     {
@@ -468,7 +468,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 20
     },
     {
@@ -484,7 +484,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 21
     },
     {
@@ -500,7 +500,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 22
     },
     {
@@ -516,7 +516,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-29",
       "id": 23
     },
@@ -549,7 +549,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 25
     },
     {
@@ -565,7 +565,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 26
     },
     {
@@ -581,7 +581,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 27
     },
     {
@@ -597,7 +597,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 28
     },
     {
@@ -613,7 +613,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 29
     },
     {
@@ -629,7 +629,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-19",
       "id": 30
     },
@@ -646,7 +646,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 31
     },
     {
@@ -662,7 +662,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 32
     },
     {
@@ -678,7 +678,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 33
     },
     {
@@ -694,7 +694,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-26",
       "id": 34
     },
@@ -727,7 +727,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 36
     },
     {
@@ -743,7 +743,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 37
     },
     {
@@ -759,7 +759,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 38
     },
     {
@@ -775,7 +775,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 39
     },
     {
@@ -791,7 +791,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 40
     },
     {
@@ -807,7 +807,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 41
     },
     {
@@ -823,7 +823,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 42
     },
     {
@@ -839,7 +839,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 43
     },
     {
@@ -855,7 +855,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-24",
       "id": 44
     },
@@ -872,7 +872,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 45
     },
     {
@@ -888,7 +888,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 46
     },
     {
@@ -904,7 +904,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 47
     },
     {
@@ -920,7 +920,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 48
     },
     {
@@ -936,7 +936,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 49
     },
     {
@@ -952,7 +952,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 50
     },
     {
@@ -968,7 +968,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 51
     },
     {
@@ -984,7 +984,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 52
     },
     {
@@ -1000,7 +1000,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 53
     },
     {
@@ -1016,7 +1016,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 54
     },
     {
@@ -1048,7 +1048,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 56
     },
     {
@@ -1080,7 +1080,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-04",
       "id": 58
     },
@@ -1113,7 +1113,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 60
     },
     {
@@ -1129,7 +1129,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 61
     },
     {
@@ -1145,7 +1145,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 62
     },
     {
@@ -1161,7 +1161,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 63
     },
     {
@@ -1177,7 +1177,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-02",
       "id": 64
     },
@@ -1194,7 +1194,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 65
     },
     {
@@ -1210,7 +1210,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 66
     },
     {
@@ -1226,7 +1226,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 67
     },
     {
@@ -1242,7 +1242,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 68
     },
     {
@@ -1258,7 +1258,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 69
     },
     {
@@ -1274,7 +1274,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 70
     },
     {
@@ -1338,7 +1338,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 74
     },
     {
@@ -1354,7 +1354,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 75
     },
     {
@@ -1370,7 +1370,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 76
     },
     {
@@ -1386,7 +1386,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 77
     },
     {
@@ -1402,7 +1402,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 78
     },
     {
@@ -1418,7 +1418,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 79
     },
     {
@@ -1434,7 +1434,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 80
     },
     {
@@ -1450,7 +1450,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 81
     },
     {
@@ -1642,7 +1642,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 93
     },
     {
@@ -1658,7 +1658,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 94
     },
     {
@@ -1770,7 +1770,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 101
     },
     {
@@ -1786,7 +1786,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 102
     },
     {
@@ -2067,7 +2067,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-24",
       "id": 119
     },
@@ -2084,7 +2084,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-24",
       "id": 120
     },
@@ -2371,7 +2371,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-20",
       "id": 137
     },
@@ -2405,7 +2405,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-20",
       "id": 139
     },
@@ -2507,7 +2507,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-16",
       "id": 145
     },
@@ -2745,7 +2745,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-13",
       "id": 159
     },
@@ -3288,7 +3288,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-07",
       "id": 191
     },
@@ -3305,7 +3305,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-07",
       "id": 192
     },
@@ -3475,7 +3475,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-10-05",
       "id": 202
     },
@@ -4137,7 +4137,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-29",
       "id": 241
     },
@@ -4340,7 +4340,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-26",
       "id": 253
     },
@@ -4510,7 +4510,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-24",
       "id": 263
     },
@@ -4748,7 +4748,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-22",
       "id": 277
     },
@@ -4850,7 +4850,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-21",
       "id": 283
     },
@@ -4935,7 +4935,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-19",
       "id": 288
     },
@@ -5394,7 +5394,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-15",
       "id": 315
     },
@@ -5479,7 +5479,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-14",
       "id": 320
     },
@@ -5563,7 +5563,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-12",
       "id": 325
     },
@@ -5614,7 +5614,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-11",
       "id": 328
     },
@@ -5631,7 +5631,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 329
     },
     {
@@ -5732,7 +5732,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 335
     },
     {
@@ -5884,7 +5884,7 @@
       "summary": "",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "id": 344
     },
     {
@@ -5968,7 +5968,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-08",
       "id": 349
     },
@@ -5985,7 +5985,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-08",
       "id": 350
     },
@@ -6070,7 +6070,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-07",
       "id": 355
     },
@@ -6121,7 +6121,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-06",
       "id": 358
     },
@@ -6206,7 +6206,7 @@
       "dateBasis": "Publisher archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-04",
       "id": 363
     },
@@ -6563,7 +6563,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-09-01",
       "id": 384
     },
@@ -7022,7 +7022,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-08-25",
       "id": 411
     },
@@ -7583,7 +7583,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-08-18",
       "id": 444
     },
@@ -8091,7 +8091,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-08-11",
       "id": 474
     },
@@ -8584,7 +8584,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-08-04",
       "id": 503
     },
@@ -9196,7 +9196,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-07-28",
       "id": 539
     },
@@ -9672,7 +9672,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-07-21",
       "id": 567
     },
@@ -10097,7 +10097,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-07-14",
       "id": 592
     },
@@ -10607,7 +10607,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-07-07",
       "id": 622
     },
@@ -11355,7 +11355,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-06-30",
       "id": 666
     },
@@ -11967,7 +11967,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-06-23",
       "id": 702
     },
@@ -12475,7 +12475,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-06-16",
       "id": 732
     },
@@ -13085,7 +13085,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-06-10",
       "id": 768
     },
@@ -13509,7 +13509,7 @@
       "dateBasis": "Publisher newsletter archive",
       "dateStatus": "Verified",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "originalDateText": "2026-06-02",
       "id": 793
     },
@@ -15433,7 +15433,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 907
     },
@@ -16572,7 +16572,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-08",
       "id": 974
     },
@@ -16606,7 +16606,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-08",
       "id": 976
     },
@@ -16640,7 +16640,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 978
     },
@@ -16657,7 +16657,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-10",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 979
     },
@@ -16674,7 +16674,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 980
     },
@@ -16691,7 +16691,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 981
     },
@@ -16708,7 +16708,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 982
     },
@@ -16725,7 +16725,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 983
     },
@@ -16742,7 +16742,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 984
     },
@@ -16759,7 +16759,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 985
     },
@@ -16776,7 +16776,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 986
     },
@@ -16844,7 +16844,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 990
     },
@@ -16878,7 +16878,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 992
     },
@@ -16895,7 +16895,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 993
     },
@@ -16912,7 +16912,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 994
     },
@@ -16929,7 +16929,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 995
     },
@@ -16946,7 +16946,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 996
     },
@@ -16963,7 +16963,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 997
     },
@@ -16980,7 +16980,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-09",
       "id": 998
     },
@@ -16997,7 +16997,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 999
     },
@@ -17014,7 +17014,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 1000
     },
@@ -17031,7 +17031,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-08",
       "id": 1001
     },
@@ -17065,7 +17065,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 1003
     },
@@ -17082,7 +17082,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 1004
     },
@@ -17099,7 +17099,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1005
     },
@@ -17116,7 +17116,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1006
     },
@@ -17133,7 +17133,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1007
     },
@@ -17150,7 +17150,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1008
     },
@@ -17167,7 +17167,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1009
     },
@@ -17184,7 +17184,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1010
     },
@@ -17201,7 +17201,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1011
     },
@@ -17218,7 +17218,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1012
     },
@@ -17235,7 +17235,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1013
     },
@@ -17252,7 +17252,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1014
     },
@@ -17269,7 +17269,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1015
     },
@@ -17286,7 +17286,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 1016
     },
@@ -17303,7 +17303,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1017
     },
@@ -17337,7 +17337,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-08",
       "id": 1019
     },
@@ -17354,7 +17354,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 1020
     },
@@ -17371,7 +17371,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1021
     },
@@ -17405,7 +17405,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1023
     },
@@ -17422,7 +17422,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1024
     },
@@ -17439,7 +17439,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1025
     },
@@ -17456,7 +17456,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1026
     },
@@ -17473,7 +17473,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1027
     },
@@ -17490,7 +17490,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1028
     },
@@ -17507,7 +17507,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1029
     },
@@ -17524,7 +17524,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1030
     },
@@ -17541,7 +17541,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1031
     },
@@ -17558,7 +17558,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1032
     },
@@ -17575,7 +17575,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-12",
       "id": 1033
     },
@@ -17592,7 +17592,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1034
     },
@@ -17609,7 +17609,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 1035
     },
@@ -17626,7 +17626,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-11",
       "id": 1036
     },
@@ -17643,7 +17643,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-10",
       "id": 1037
     },
@@ -17660,7 +17660,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-13",
       "id": 1038
     },
@@ -17677,7 +17677,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-13",
       "id": 1039
     },
@@ -17694,7 +17694,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-13",
       "id": 1040
     },
@@ -17711,7 +17711,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-13",
       "id": 1041
     },
@@ -17728,7 +17728,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-13",
       "id": 1042
     },
@@ -17745,7 +17745,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-13",
       "id": 1043
     },
@@ -17762,7 +17762,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-13",
+      "checked": "2026-11-14",
       "indexDate": "2026-11-13",
       "id": 1044
     }
@@ -18258,9 +18258,9 @@
     }
   ],
   "lastRefresh": {
-    "attemptedAt": "2026-11-13T20:47:04+08:00",
+    "attemptedAt": "2026-11-14T04:42:12+08:00",
     "status": "partial",
-    "added": 13,
+    "added": 0,
     "sources": [
       {
         "source": "Smart Property Investment",
@@ -18278,7 +18278,7 @@
         "source": "Property Update",
         "status": "ok",
         "observed": 80,
-        "added": 4
+        "added": 0
       },
       {
         "source": "Domain",
@@ -18301,14 +18301,14 @@
       {
         "source": "Public news discovery",
         "status": "ok",
-        "observed": 64,
-        "added": 9
+        "observed": 63,
+        "added": 0
       }
     ],
     "schedule": "Daily 04:00 Asia/Manila",
     "provider": "GitHub Actions"
   },
-  "lastSuccessfulRefresh": "2026-11-13T20:47:04+08:00",
+  "lastSuccessfulRefresh": "2026-11-14T04:42:12+08:00",
   "competitors": [
     {
       "name": "Smart Property Investment",
