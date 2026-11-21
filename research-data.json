@@ -19088,7 +19088,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-20",
+      "checked": "2026-11-21",
       "indexDate": "2026-11-17",
       "id": 1124
     },
@@ -19533,6 +19533,23 @@
       "checked": "2026-11-21",
       "indexDate": "2026-11-20",
       "id": 1150
+    },
+    {
+      "competitor": "Smart Property Investment",
+      "type": "Mention",
+      "title": "Owners chase certainty ahead of looming CGT deadline - Smart Property Investment",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPdzRreGRKWTR4ZWZMdXlkRVRvd2QxRDJGMTBncEo5NXFzYjU2RUtzZzl1eEpnQ2hiajdOb2NEMVdFZ2k0c0ZwZjBtc21MdXF0SVgzajJDX2JpTE5ubGV0WmRJN19RaHVGQmh1b0FBOEViME1ad3RienFxMFM0SnViOGhTbjJnYXZnQ2k4eWlIRklGQU1rMkJ3Q3NRMnFOZWg0eUxZejdPUHlRV3JpUEM2RUZPT1I0NmdLNEFlcXVUZXhFdHJDSktyYmNuOFVZSUp5M3JWa0pLa0NHcHkwRDN6VkxoeW5TM0RrbXg5VjFRTFNFZnBFRUMwbTBEWVktMGxEOUwwcWdYRWdCN3VfOUw4R1ZVWGFLWm1fZkthN3ViME1UYS13ejlTZXRuSldJNEM4V2NRLWlUZS1MdGsyU1lySmRwYlZuLWkwSlhiUVVRc2JvY2Y1ZmItNlB1djVZLTQ3WEtxcmpWVFlsTDVlWDhmbjdzNWRfaXFneHpfRXdIVzZhWEk1NlBvT2h3WTRyYjNWMGw3N2ZkVDJsYklkTldPMkd0YVFIVE12bGZUc1lVcEJpR2xBRDRTZVVnWlRucFFISF9nMnl3c2dCM2NZN3ltell1alJySzl1V1dNbDNxNXpYT2NfVzZNWTl0QzRpRGpqdlo4aDRST0c?oc=5",
+      "date": null,
+      "dateStatus": "Unverified",
+      "dateBasis": "News index timestamp; original page date not verified",
+      "category": "",
+      "sourceType": "Indexed news · Needs review",
+      "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
+      "opportunity": "",
+      "reviewStatus": "Metadata only",
+      "checked": "2026-11-21",
+      "indexDate": "2026-11-15",
+      "id": 1151
     }
   ],
   "crawlLog": [
@@ -20026,9 +20043,9 @@
     }
   ],
   "lastRefresh": {
-    "attemptedAt": "2026-11-21T03:22:29+08:00",
-    "status": "ok",
-    "added": 16,
+    "attemptedAt": "2026-11-21T09:00:41+08:00",
+    "status": "partial",
+    "added": 1,
     "sources": [
       {
         "source": "Smart Property Investment",
@@ -20040,13 +20057,13 @@
         "source": "Your Investment Property",
         "status": "ok",
         "observed": 54,
-        "added": 1
+        "added": 0
       },
       {
         "source": "Property Update",
         "status": "ok",
         "observed": 80,
-        "added": 3
+        "added": 0
       },
       {
         "source": "Domain",
@@ -20068,15 +20085,15 @@
       },
       {
         "source": "Public news discovery",
-        "status": "ok",
-        "observed": 66,
-        "added": 12
+        "status": "error",
+        "error": "HTTP Error 429: Too Many Requests",
+        "added": 1
       }
     ],
     "schedule": "Daily 04:00 Asia/Manila",
     "provider": "GitHub Actions"
   },
-  "lastSuccessfulRefresh": "2026-11-21T03:22:29+08:00",
+  "lastSuccessfulRefresh": "2026-11-21T09:00:41+08:00",
   "competitors": [
     {
       "name": "Smart Property Investment",
