@@ -20092,9 +20092,9 @@
     }
   ],
   "lastRefresh": {
-    "attemptedAt": "2026-11-22T02:24:55+08:00",
-    "status": "ok",
-    "added": 3,
+    "attemptedAt": "2026-11-22T08:01:25+08:00",
+    "status": "partial",
+    "added": 0,
     "sources": [
       {
         "source": "Smart Property Investment",
@@ -20112,12 +20112,12 @@
         "source": "Property Update",
         "status": "ok",
         "observed": 80,
-        "added": 2
+        "added": 0
       },
       {
         "source": "Domain",
-        "status": "ok",
-        "observed": 10,
+        "status": "error",
+        "error": "HTTP Error 403: Forbidden",
         "added": 0
       },
       {
@@ -20134,15 +20134,15 @@
       },
       {
         "source": "Public news discovery",
-        "status": "ok",
-        "observed": 66,
-        "added": 1
+        "status": "error",
+        "error": "HTTP Error 429: Too Many Requests",
+        "added": 0
       }
     ],
     "schedule": "Daily 04:00 Asia/Manila",
     "provider": "GitHub Actions"
   },
-  "lastSuccessfulRefresh": "2026-11-22T02:24:55+08:00",
+  "lastSuccessfulRefresh": "2026-11-22T08:01:25+08:00",
   "competitors": [
     {
       "name": "Smart Property Investment",
