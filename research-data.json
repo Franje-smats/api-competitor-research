@@ -19937,7 +19937,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "indexDate": "2026-11-23",
       "id": 1176
     },
@@ -20226,7 +20226,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "indexDate": "2026-11-21",
       "id": 1193
     },
@@ -20345,7 +20345,7 @@
       "summary": "Public news-index discovery. Relevance and original publication date require review; this is not a verified independent mention.",
       "opportunity": "",
       "reviewStatus": "Metadata only",
-      "checked": "2026-11-27",
+      "checked": "2026-11-28",
       "indexDate": "2026-11-23",
       "id": 1200
     },
@@ -21861,27 +21861,27 @@
     }
   ],
   "lastRefresh": {
-    "attemptedAt": "2026-11-28T04:26:02+08:00",
+    "attemptedAt": "2026-11-28T10:26:34+08:00",
     "status": "ok",
-    "added": 21,
+    "added": 0,
     "sources": [
       {
         "source": "Smart Property Investment",
         "status": "ok",
         "observed": 30,
-        "added": 4
+        "added": 0
       },
       {
         "source": "Your Investment Property",
         "status": "ok",
         "observed": 54,
-        "added": 1
+        "added": 0
       },
       {
         "source": "Property Update",
         "status": "ok",
         "observed": 80,
-        "added": 3
+        "added": 0
       },
       {
         "source": "Domain",
@@ -21904,14 +21904,14 @@
       {
         "source": "Public news discovery",
         "status": "ok",
-        "observed": 51,
-        "added": 13
+        "observed": 53,
+        "added": 0
       }
     ],
     "schedule": "Daily 04:00 Asia/Manila",
     "provider": "GitHub Actions"
   },
-  "lastSuccessfulRefresh": "2026-11-28T04:26:02+08:00",
+  "lastSuccessfulRefresh": "2026-11-28T10:26:34+08:00",
   "competitors": [
     {
       "name": "Smart Property Investment",
